@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TextInventory xmlns="http://chs.harvard.edu/xmlns/cts" tiversion="5.0.rc.1">
+    <ctsnamespace abbr="greekLit" ns="http://chs.harvard.edu/ctsns/greekLit">
+        <description xml:lang="eng"> The First Thousand Years of Greek project's inventory
+            of Greek texts. </description>
+    </ctsnamespace>
+    
+    <textgroup urn="urn:cts:greekLit:tlg0012">
+        <groupname xml:lang="eng"> Homeric epic</groupname>
+        <work urn="urn:cts:greekLit:tlg0012.tlg001" xml:lang="grc">
+            <title xml:lang="eng"> Iliad </title>
+            <edition urn="urn:cts:greekLit:tlg0012.tlg001.msA">
+                <label xml:lang="eng"> A </label>
+                <description xml:lang="eng"> Iliad text of the Venetus A manuscript, Marciana 454 (=822). </description>
+                <online docname="iliad/VenetusA-Iliad-12.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:l[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+        </work>
+    </textgroup>
+    
+    
+    <textgroup urn="urn:cts:greekLit:tlg5026">
+        <groupname xml:lang="eng"> Scholia to the Iliad</groupname>
+        <work urn="urn:cts:greekLit:tlg5026.msA" xml:lang="grc">
+            <title xml:lang="eng"> Main marginal scholia</title>
+            <edition urn="urn:cts:greekLit:tlg5026.msA.hmt">
+                <label xml:lang="eng">msA</label>
+                <description xml:lang="eng">Main marginal scholia of the Venetus A manuscript, Marciana 454
+                    (=822).</description>
+                <online docname="scholia/MainScholia.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+        <work urn="urn:cts:greekLit:tlg5026.msAext" xml:lang="grc">
+            <title xml:lang="eng"> Exterior scholia</title>
+            <edition urn="urn:cts:greekLit:tlg5026.msAext.hmt">
+                <label xml:lang="eng">msAext</label>
+                <description xml:lang="eng">Exterior scholia of the Venetus A manuscript, Marciana 454
+                    (=822).</description>
+                <online docname="scholia/ExteriorScholia.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+        <work urn="urn:cts:greekLit:tlg5026.msAil" xml:lang="grc">
+            <title xml:lang="eng"> Interlinear scholia</title>
+            <edition urn="urn:cts:greekLit:tlg5026.msAil.hmt">
+                <label xml:lang="eng">msAil</label>
+                <description xml:lang="eng">Interlinear scholia of the Venetus A manuscript, Marciana 454
+                    (=822).</description>
+                <online docname="scholia/InteriorScholia.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+        <work urn="urn:cts:greekLit:tlg5026.msAim" xml:lang="grc">
+            <title xml:lang="eng"> Intermarginal scholia</title>
+            <edition urn="urn:cts:greekLit:tlg5026.msAim.hmt">
+                <label xml:lang="eng">msAim</label>
+                <description xml:lang="eng">Intermarginal scholia (between main marginal scholia and text)
+                    of the Venetus A manuscript, Marciana 454 (=822).</description>
+                <online docname="scholia/IntermarginalScholia.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+        
+        <work urn="urn:cts:greekLit:tlg5026.msAint" xml:lang="grc">
+            <title xml:lang="eng"> Interior scholia</title>
+            <edition urn="urn:cts:greekLit:tlg5026.msAint.hmt">
+                <label xml:lang="eng">msAint</label>
+                <description xml:lang="eng">Interior (gutter) scholia of the Venetus A manuscript, Marciana
+                    454 (=822).</description>
+                <online docname="scholia/InteriorScholia.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+    </textgroup>
+    
+</TextInventory>
