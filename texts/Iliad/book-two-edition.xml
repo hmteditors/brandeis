@@ -781,15 +781,15 @@
                 --STOP--
                 <l n="376">ὅς με μετ᾽ ἀπρήκτους ἔριδας καὶ νείκεα βάλλει·</l>
                 
-                <l n="377">καὶ γὰρ ἐγὼν ἀχιλεύς τε μαχεσσάμεθ᾽ εἵνεκα κούρης</l>
+                <l n="377">καὶ γὰρ ἐγὼν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλεύς</persName> τε μαχεσσάμεθ᾽ εἵνεκα κούρης</l>
                 
                 <l n="378">ἀντιβίοις ἐπέεσσιν, ἐγώ δ᾽ ἦρχον χαλεπαίνων·</l>
                 
                 <l n="379">εἰ δέ <add place="above" hand= "A"><num value= "1">Α</num></add>ποτ᾽ ἔς γε μίαν βουλεύσομεν, οὐκ ἔτ᾽ ἔπειτα</l>
                 
-                <l n="380">τρωσὶν ἀνάβλησις κακοῦ ἔσσεται οὐδ᾽ <add place="above" hand= "A"><num value= "2">Β</num></add>ἠβαιόν·</l>
+                <l n="380"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶν</rs> ἀνάβλησις κακοῦ ἔσσεται οὐδ᾽ <add place="above" hand= "A"><num value= "2">Β</num></add>ἠβαιόν·</l>
                 
-                <l n="381">νῦν δ᾽ ἔρχεσθ᾽ ἐπὶ <add place="above" hand= "A"><num value= "3">Γ</num></add>δεῖπνον ἵνα ξυνάγωμεν ἄρηα·</l>
+                <l n="381">νῦν δ᾽ ἔρχεσθ᾽ ἐπὶ <add place="above" hand= "A"><num value= "3">Γ</num></add>δεῖπνον ἵνα ξυνάγωμεν <persName n="urn:cite:hmt:pers.pers83">Ἄρηα·</persName></l>
                 
                 <l n="382">εὖ μέν τις <add place="above" hand= "A"><num value= "4">Δ</num></add>δόρυ θηξάσθω· εὖ δ᾽ ἀσπίδα <add place="above" hand= "A"><num value= "5">Ε</num></add>θέσθω·</l>
                 
@@ -797,7 +797,7 @@
                 
                 <l n="384">εὖ δέ τις ἅρματος ἀμφὶς ἰδὼν, πολέμοιο μεδέσθω·</l>
                 
-                <l n="385">ὥς κε <add place="above" hand= "A"><num value= "6">Ϛ</num></add>πανημέριοι στυγερῷ κρινώμεθ᾽ ἄρηϊ·</l>
+                <l n="385">ὥς κε <add place="above" hand= "A"><num value= "6">Ϛ</num></add>πανημέριοι στυγερῷ κρινώμεθ᾽ <persName n="urn:cite:hmt:pers.pers83">Ἄρηϊ·</persName></l>
                 
                 <l n="386">οὐ γὰρ παυσωλή γε μετέσσεται οὐδ᾽ ἠβαιὸν,</l>
                
@@ -815,9 +815,9 @@
                 <l
                     n="393"><add place="above" hand= "A"><num value= "10">Ι</num></add>ἄρκιον ἐσσεῖται φυγέειν κύνας ἢδ᾽ οἰωνούς·</l>
                 <l
-                    n="394">ὣς ἔφατ᾽· ἀργεῖοι δὲ μέγ᾽ ἴαχον, ὡς ὅτε κῦμα</l>
+                    n="394">ὣς ἔφατ᾽· <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργεῖοι</rs> δὲ μέγ᾽ ἴαχον, ὡς ὅτε κῦμα</l>
                 <l
-                    n="395"><add place="above" hand= "A"><num value= "11">ΙΑ</num></add>ἀκτῇ ἐφ᾽ ὑψηλῇ· ὅτε κινήσει νότος ἐλθὼν</l>
+                    n="395"><add place="above" hand= "A"><num value= "11">ΙΑ</num></add>ἀκτῇ ἐφ᾽ ὑψηλῇ· ὅτε κινήσει <persName n="urn:cite:hmt:pers.pers520">Νότος</persName> ἐλθὼν</l>
                 <l
                     n="396">προβλῆτι σκοπέλῳ· τόν δ᾽ οὔ ποτε κύματα λείπει</l>
                 <l
@@ -829,43 +829,43 @@
                 <l
                     n="400">ἄλλος δ᾽ ἄλλῳ ἔρεζε θεῶν <add place="above" hand= "A"><num value= "13">ΙΓ</num></add>αἰειγενετάων·</l>
                 <l
-                    n="401">εὐχόμενος θάνατόν τε φυγεῖν καὶ μῶλον ἄρηος·</l>
+                    n="401">εὐχόμενος θάνατόν τε φυγεῖν καὶ μῶλον <persName n="urn:cite:hmt:pres.pers83">Ἄρηος·</persName></l>
                 <l
-                    n="402">αὐτὰρ ὃ <add place="above" hand= "A"><num value= "14">ΙΔ</num></add>βοῦν ἱέρευσεν ἄναξ ἀνδρῶν ἀγαμέμνων</l>
+                    n="402">αὐτὰρ ὃ <add place="above" hand= "A"><num value= "14">ΙΔ</num></add>βοῦν ἱέρευσεν ἄναξ ἀνδρῶν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName></l>
                 <l
-                    n="403">πίονα πενταέτηρον ὑπερμενέϊ κρονίωνι·</l>
+                    n="403">πίονα πενταέτηρον ὑπερμενέϊ <persName n="urn:cite:hmt:pers.pers8">Κρονίωνι·</persName></l>
                 <l
-                    n="404"><add place="above" hand= "A"><num value= "15">ΙΕ</num></add>κίκλησκε δὲ γέροντας ἀριστῆας παναχαιῶν·</l>
+                    n="404"><add place="above" hand= "A"><num value= "15">ΙΕ</num></add>κίκλησκε δὲ γέροντας ἀριστῆας Παναχαιῶν·</l>
                 <l
-                    n="405"><add place="above" hand= "A"><num value= "16">ΙϚ</num></add>νέστορα μὲν πρώτιστα· καὶ ἰδομενῆα ἄνακτα·</l>
+                    n="405"><add place="above" hand= "A"><num value= "16">ΙϚ</num></add>νέστορα μὲν πρώτιστα· καὶ <persName n="urn:cite:hmt:pers.pers287">Ἰδομενῆα</persName> ἄνακτα·</l>
                 <l
-                    n="406">αὐτὰρ ἔπειτ᾽ αἴαντε δύω· καὶ τυδέος υἱόν·</l>
+                    n="406">αὐτὰρ ἔπειτ᾽ <persName n="urn:cite:hmt:pers.pers127">Αἴαντε</persName> δύω· καὶ <persName n="urn:cite:hmt:pers.pers251">Τυδέος</persName> υἱόν·</l>
                 <l
-                    n="407">ἕκτον δ᾽ αὖτ᾽ <add place="above" hand= "A"><num value= "17">ΙΖ</num></add>ὀδυσῆα διῒ μῆτιν ἀτάλαντον·</l>
+                    n="407">ἕκτον δ᾽ αὖτ᾽ <add place="above" hand= "A"><num value= "17">ΙΖ</num></add><persName n="urn:cite:hmt:pers.pers118">Ὀδυσῆα</persName> <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> μῆτιν ἀτάλαντον·</l>
                 <l
-                    n="408">αὐτόματος δέ οἱ ἦλθε βοὴν ἀγαθὸς <add place="above" hand= "A"><num value= "18">ΙΗ</num></add>μενέλαος·</l>
+                    n="408">αὐτόματος δέ οἱ ἦλθε βοὴν ἀγαθὸς <add place="above" hand= "A"><num value= "18">ΙΗ</num></add><persName n="urn:cite:hmt:pers.pers119">Μενέλαος·</persName></l>
                 <l
                     n="409">ᾔδεε γὰρ κατὰ θυμὸν ἀδελφεὸν ὡς ἐπονεῖτο·</l>
                 <l
                     n="410">βοῦν δὲ περιστήσαντο· καὶ οὐλοχύτας ἀνέλοντο·</l>
                 <l
-                    n="411">τοῖσι δ᾽ εὐχόμενος μετέφη κρείων ἀγαμέμνων·</l>
+                    n="411">τοῖσι δ᾽ εὐχόμενος μετέφη κρείων <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων·</persName></l>
                 <l
-                    n="412">ζεῦ <add place="above" hand= "A"><num value= "19">ΙΘ</num></add>κύδιστε· μέγιστε· κελαινεφὲς· αἰθέρι ναίων·</l>
+                    n="412"><persName n="urn:cite:hmt:pers.pers8">Ζεῦ</persName> <add place="above" hand= "A"><num value= "19">ΙΘ</num></add>κύδιστε· μέγιστε· κελαινεφὲς· αἰθέρι ναίων·</l>
                 <l
                     n="413">μὴ πρὶν ἐπ᾽ <add place="above" hand= "A"><num value= "20">Κ</num></add>ἠέλιον δῦναι καὶ ἐπι κνέφας ἐλθεῖν;</l>
                 <l
-                    n="414">πρίν με <add place="above" hand= "A"><num value= "21">ΚΑ</num></add>καταπρηνὲς βαλέειν πριάμοιο μέλαθρον</l>
+                    n="414">πρίν με <add place="above" hand= "A"><num value= "21">ΚΑ</num></add>καταπρηνὲς βαλέειν <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName> μέλαθρον</l>
                 <l
                     n="415"><add place="above" hand= "A"><num value= "22">ΚΒ</num></add>αἰθαλόεν· πρῆσαι δὲ πυρὸς δηΐοιο θύρετρα·</l>
                 <l
-                    n="416"><add place="above" hand= "A"><num value= "1">Α</num></add>ἑκτόρεον δὲ χιτῶνα περὶ στήθεσσι δαΐξαι</l>
+                    n="416"><add place="above" hand= "A"><num value= "1">Α</num></add><persName n="urn:cite:hmt:pers.pers172">Ἑκτόρεον</persName> δὲ χιτῶνα περὶ στήθεσσι δαΐξαι</l>
                 <l
                     n="417">χαλκῷ <add place="above" hand= "A"><num value= "2">Β</num></add>ῥωγαλέον· πολέες δ᾽ ἀμφ᾽ αὐτὸν ἑταῖροι</l>
                 <l
                     n="418">πρηνέες ἐν κονίῃσιν <add place="above" hand= "A"><num value= "3">Γ</num></add>ὀδὰξ λαζοίατο γαῖαν·</l>
                 <l
-                    n="419">ὣς ἔφατ᾽· οὐδ᾽ ἄρα <add place="above" hand= "A"><num value= "4">Δ</num></add>πώ οἱ ἐπεκραίαινε κρονίων·</l>
+                    n="419">ὣς ἔφατ᾽· οὐδ᾽ ἄρα <add place="above" hand= "A"><num value= "4">Δ</num></add>πώ οἱ ἐπεκραίαινε <persName n="urn:cite:hmt:pers.pers8">Κρονίων·</persName></l>
                 <l
                     n="420">ἀλλ᾽ ὅ γε δέκτο μὲν ἱρά, πόνον δ᾽ ἀμέγαρτον ὄφελλεν·</l>
                 <l
@@ -879,7 +879,7 @@
                 <l
                     n="425">καὶ τὰ μὲν ἂρ σχίζῃσιν ἀφύλλοισιν κατέκαιον·</l>
                 <l
-                    n="426">σπλάγχνα δ᾽ ἄρ᾽ ἀμπείραντες ὑπείρεχον ἡφαίστοιο·</l>
+                    n="426">σπλάγχνα δ᾽ ἄρ᾽ ἀμπείραντες ὑπείρεχον <persName n="urn:cite:hmt:pers.pers192">Ἡφαίστοιο·</persName></l>
                 <l
                     n="427">αὐτὰρ ἐπεὶ κατα μῆρ' ἐκάη· καὶ σπλάγχν᾽ ἐπάσαντο,</l>
                 <l
@@ -893,33 +893,33 @@
                 <l
                     n="432">αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο,</l>
                 <l
-                    n="433">τοῖς ἄρα μύθων ἦρχε γερήνιος ἱππότα νέστωρ·</l>
+                    n="433">τοῖς ἄρα μύθων ἦρχε <placeName n="urn:cite:hmt:place.place115">Γερήνιος</placeName> ἱππότα <persName n="urn:cite:hmt:pers.pers117">Νέστωρ·</persName></l>
                 <l
-                    n="434">ἀτρείδη κύδιστε ἄναξ ἀνδρῶν ἀγάμεμνον·</l>
-                <l n="435">μὴ κέτι νῦν <add place="above" hand="A"><num value="5">Ε</num></add>δῆθ᾽
-                    αὖθι λεγώμεθα· μὴ δ᾽ ἔτϊ δηρὸν</l>
+                    n="434"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδη</persName> κύδιστε ἄναξ ἀνδρῶν <persName n="urn:cite:hmt:pers.pers22">Ἀγάμεμνον·</persName></l>
+                <l 
+                    n="435">μὴ κέτι νῦν <add place="above" hand="A"><num value="5">Ε</num></add>δῆθ᾽αὖθι λεγώμεθα· μὴ δ᾽ ἔτϊ δηρὸν</l>
                 <l
                     n="436">ἀμβαλλώμεθα ἔργον ὃ δὴ θεὸς <add place="above" hand="A"><num value="6">Ϛ</num></add>ἐγγυαλίξει·</l>
                 <l
-                    n="437">ἀλλ᾽ ἄγε κήρυκες μὲν ἀχαιῶν χαλκοχιτώνων</l>
+                    n="437">ἀλλ᾽ ἄγε κήρυκες μὲν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> χαλκοχιτώνων</l>
                 <l
                     n="438">λαὸν κηρύσσοντες ἀγειρόντων κατὰ νῆας·</l>
                 <l
-                    n="439"><add place="above" hand="A"><num value="7">Ζ</num></add>ἡμεῖς δ᾽ ἀθρόοι ὧδε κατὰ στρατὸν εὐρὺν ἀχαιῶν</l>
+                    n="439"><add place="above" hand="A"><num value="7">Ζ</num></add>ἡμεῖς δ᾽ ἀθρόοι ὧδε κατὰ στρατὸν εὐρὺν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
                 <l
-                    n="440">ἴομεν· ὄφρά κε θᾶσσον ἐγείρομεν ὀξὺν ἄρηα·</l>
+                    n="440">ἴομεν· ὄφρά κε θᾶσσον ἐγείρομεν ὀξὺν <persName n="urn:cite:hmt:pers.pers83">Ἄρηα·</persName></l>
                 <l
-                    n="441">ὣς ἔφατ᾽ οὐδ᾽ ἀπίθησεν ἄναξ ἀνδρῶν ἀγαμέμνων·</l>
+                    n="441">ὣς ἔφατ᾽ οὐδ᾽ ἀπίθησεν ἄναξ ἀνδρῶν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων·</persName></l>
                 <l
                     n="442">αὐτίκα κηρύκεσσι λιγυφθόγγοισι κέλευσε</l>
                 <l
-                    n="443">κηρύσσειν πόλεμόν δὲ κάρη κομόωντας ἀχαιούς·</l>
+                    n="443">κηρύσσειν πόλεμόν δὲ κάρη κομόωντας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιούς·</rs></l>
                 <l
                     n="444">οἱ μὲ`ν ἐκήρυσσον· τοὶ δ᾽ ἠγείροντο μάλ᾽ <add place="above" hand="A"><num value="8">Η</num></add>ὦκα·</l>
                 <l
-                    n="445">οἱ δ᾽ ἀμφ᾽ ἀτρείωνα διοτρεφέες βασιλῆες</l>
+                    n="445">οἱ δ᾽ ἀμφ᾽ <persName n="urn:cite:hmt:pers.pers22">Ἀτρείωνα</persName> διοτρεφέες βασιλῆες</l>
                 <l
-                    n="446">θῦνον κρίνοντες· μετὰ δὲ <add place="above" hand="A"><num value="9">Θ</num></add>γλαυκῶπις ἀθήνη</l>
+                    n="446">θῦνον κρίνοντες· μετὰ δὲ <add place="above" hand="A"><num value="9">Θ</num></add>γλαυκῶπις <persName n="urn:cite:hmt:pers.pers67">Ἀθήνη</persName></l>
                 <l
                     n="447">αἰγίδ᾽ ἔχους᾽ ἐρίτιμον <add place="above" hand="A"><num value="10">Ι</num></add>ἀγήραον ἀθανάτην τε·</l>
                 <l
@@ -927,7 +927,7 @@
                 <l
                     n="449">πάντες ἐϋπλεκέες· ἑκατόμβοιος δὲ ἕκαστος·</l>
                 <l
-                    n="450">σὺν τῇ <add place="above" hand="A"><num value="12">ΙΒ</num></add>παιφάσσουσα διέσσυτο λαὸν ἀχαιῶν</l>
+                    n="450">σὺν τῇ <add place="above" hand="A"><num value="12">ΙΒ</num></add>παιφάσσουσα διέσσυτο λαὸν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
                 <l
                     n="451">ὀτρύνους᾽ ἰέναι· ἐν δὲ σθένος ὦρσεν ἑκάστῳ</l>
                 <l
@@ -949,7 +949,7 @@
                 <l
                     n="460"><add place="above" hand="A"><num value="2">Β</num></add>χηνῶν ἢ γεράνων ἢ κύκνων δουλιχοδείρων</l>
                 <l
-                    n="461"><add place="above" hand="A"><num value="3">Γ</num></add>ἀσίω ἐν λειμῶνι καϋστρίου ἀμφὶ ῥέεθρα</l>
+                    n="461"><add place="above" hand="A"><num value="3">Γ</num></add><placeName n="urn:cite:hmt:place.place226">Ἀσίω</placeName> ἐν λειμῶνι <persName n="urn:cite:hmt:pers.pers446">Καϋστρίου</persName> ἀμφὶ ῥέεθρα</l>
                 <l
                     n="462"><add place="above" hand="A"><num value="4">Δ</num></add>ἔνθα καὶ ἔνθα ποτῶνται <add place="above" hand="A"><num value="5">Ε</num></add>ἀγαλλόμεναι πτερύγεσσι</l>
                 <l
@@ -957,7 +957,7 @@
                 <l
                     n="464">ὣς τῶν ἔθνεα πολλὰ νεῶν ἄπο καὶ κλισιάων</l>
                 <l
-                    n="465">ἐς πεδίον προχέοντο σκαμάνδριον· <add place="above" hand="A"><num value="8">Η</num></add>αὐτὰρ ὑπὸ χθὼν</l>
+                    n="465">ἐς πεδίον προχέοντο <placeName n="urn:cite:hmt:place.place93">Σκαμάνδριον·</placeName> <add place="above" hand="A"><num value="8">Η</num></add>αὐτὰρ ὑπὸ χθὼν</l>
                 <l
                     n="466">σμερδαλέον κονάβηζε ποδῶν αὐτῶν τε καὶ ἵππων·</l>
                 <l
