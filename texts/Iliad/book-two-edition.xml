@@ -778,7 +778,7 @@
                 <l n="374">χερσὶν ὑφ᾽ ἡμετέρῃσιν ἁλοῦσά τε περθομένη τε·</l>
                
                 <l n="375">ἀλλά μοι αἰγίοχος <add place="above" hand= "A"><num value= "31">ΛΑ</num></add><persName n="urn:cite:hmt:pers.pers8">Κρονίδης Ζεὺς</persName> ἄλγε᾽ ἔδωκεν·</l>
-                --STOP--
+                
                 <l n="376">ὅς με μετ᾽ ἀπρήκτους ἔριδας καὶ νείκεα βάλλει·</l>
                 
                 <l n="377">καὶ γὰρ ἐγὼν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλεύς</persName> τε μαχεσσάμεθ᾽ εἵνεκα κούρης</l>
@@ -1059,43 +1059,44 @@
                 <l
                     n="514">παρθένος αἰδοίη ὑπερώϊον εἰς ἀναβᾶσα,</l>
                 <l
-                    n="515">ἄρηϊ κρατερῷ· ὁ δέ οἱ παρελέξατο λάθρη·</l>
+                    n="515"><persName n="urn:cite:hmt:pers.pers83">Ἄρηϊ</persName> κρατερῷ· ὁ δέ οἱ παρελέξατο λάθρη·</l>
                 <l
                     n="516">τοῖς δὲ` τριήκοντα γλαφυραὶ νέες ἐστιχόωντο·</l>
                 <l
-                    n="517">αὐτὰρ <add place="supralinear"><num value="24">ΚΔ</num></add> φωκήων, <add place="supralinear"><num value="25">ΚΕ</num></add>Σχεδίος καὶ Ἐπίστροφος ἦρχον</l>
+                    n="517">αὐτὰρ <add place="supralinear"><num value="24">ΚΔ</num></add> <rs type="ethnic" n="urn:cite:hmt:place.place127">Φωκήων,</rs> <add place="supralinear"><num value="25">ΚΕ</num></add><persName n="urn:cite:hmt:pers.pers362">Σχεδίος</persName> καὶ <persName n="urn:cite:hmt:pers.pers729">Ἐπίστροφος</persName> ἦρχον</l>
                 <l
-                    n="518">υἱέες Ἰφίτου μεγαθύμου Ναυβολίδαο·</l>
+                    n="518">υἱέες <persName n="urn:cite:hmt:pers.pers336">Ἰφίτου</persName> μεγαθύμου <persName n="urn:cite:hmt:pers.pers368">Ναυβολίδαο·</persName></l>
                 <l
-                    n="519">οἳ <add place="supralinear"><num value="26">ΚϚ</num></add>Κυπάρισσον ἔχον πυθῶνά τε πετρήεσσαν·</l>
+                    n="519">οἳ <add place="supralinear"><num value="26">ΚϚ</num></add><placeName n="urn:cite:hmt:place.place192">Κυπάρισσον</placeName> ἔχον <placeName n="urn:cite:hmt:place.place193">Πυθῶνά</placeName> τε πετρήεσσαν·</l>
                 <l
-                    n="520">κρῖσαν τε ζαθέην· καὶ Δαυλίδα καὶ Πανοπῆα·</l>
+                    n="520"><placeName n="urn:cite:hmt:place.place194">Κρῖσαν</placeName> τε ζαθέην· καὶ <placeName n="urn:cite:hmt:place.place195">Δαυλίδα</placeName> καὶ <placeName n="urn:cite:hmt:place.place197">Πανοπῆα·</placeName></l>
                 <l
-                    n="521">οἵ τ᾽ <add place="supralinear"><num value="27">ΚΖ</num></add>Ἀνεμώρειαν καὶ ὑάμπολιν ἀμφενέμοντο·</l>
+                    n="521">οἵ τ᾽ <add place="supralinear"><num value="27">ΚΖ</num></add><placeName n="urn:cite:hmt:place.place198">Ἀνεμώρειαν</placeName> καὶ <placeName n="urn:cite:hmt:place.place149">Ὑάμπολιν</placeName> ἀμφενέμοντο·</l>
                 <l
-                    n="522">οἵ τ᾽ ἄρα πὰρ ποταμὸν κηφισὸν δῖον ἔναιον·</l>
+                    n="522">οἵ τ᾽ ἄρα πὰρ ποταμὸν <placeName n="urn:cite:hmt:place.place152">Κηφισὸν</placeName> δῖον ἔναιον·</l>
                 <l
-                    n="523">οἵ τε <add place="supralinear"><num value="28">ΚΗ</num></add>Λίλαιαν ἔχον <add place="supralinear"><num value="29">ΚΘ</num></add>πηγῇς ἐπὶ κηφισοῖο·</l>
+                    n="523">οἵ τε <add place="supralinear"><num value="28">ΚΗ</num></add><placeName n="urn:cite:hmt:place.place151">Λίλαιαν</placeName> ἔχον <add place="supralinear"><num value="29">ΚΘ</num></add>πηγῇς ἐπὶ <placeName n="urn:cite:hmt:place.place152">Κηφισοῖο·</placeName></l>
                 <l
                     n="524">τοῖς δ᾽ ἅμα τεσσαράκοντα μέλαιναι νῆες ἕποντο·</l>
                 <l
-                    n="525">οἱ μὲν φωκήων στίχας ἵστασαν ἀμφιέποντες,</l>
+                    n="525">οἱ μὲν <rs type="ethnic" n="urn:cite:hmt:place.place127">Φωκήων</rs> στίχας ἵστασαν ἀμφιέποντες,</l>
                 <l
-                    n="526">Βοιωτῶν δ᾽ <add place="supralinear"><num value="30">Λ</num></add>ἔμπλην ἐπ᾽ ἀριστερὰ θωρήσσοντο·</l>
+                    n="526"><rs type="ethnic" n="urn:cite:hmt:place.place30">Βοιωτῶν</rs> δ᾽ <add place="supralinear"><num value="30">Λ</num></add>ἔμπλην ἐπ᾽ ἀριστερὰ θωρήσσοντο·</l>
                 <l
-                    n="527">λοκρῶν δ᾽ ἡγεμόνευεν <add place="supralinear"><num value="31">ΛΑ</num></add>Ὀϊλῆος ταχὺς Αἴας</l>
+                    n="527"><placeName type="ethnic" n="urn:cite:hmt:place.place150">Λοκρῶν</placeName> δ᾽ ἡγεμόνευεν <add place="supralinear"><num value="31">ΛΑ</num></add><persName n="urn:cite:hmt:pers.pers150">Ὀϊλῆος</persName> ταχὺς <persName n="urn:cite:hmt:pers.pers281">Αἴας</persName></l>
                 <l
-                    n="528">μείων; οὔ τι τόσος γε ὅσος Τελαμώνιος Αἴας,</l>
+                    n="528">μείων; οὔ τι τόσος γε ὅσος <persName n="urn:cite:hmt:pers.pers127">Τελαμώνιος Αἴας,</persName></l>
                 <l
                     n="529">ἀλλὰ πολὺ μείων· ὀλίγος μὲν ἔην λινοθώραξ·</l>
                 <l
-                    n="530">ἐγχείῃ δ᾽ ἐκέκαστο Πανέλληνας καὶ Ἀχαιούς·</l>
+                    n="530">ἐγχείῃ δ᾽ ἐκέκαστο <rs type="ethnic" n="urn:cite:hmt:place.place3">Πανέλληνας</rs> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιούς·</rs></l>
                 <l
-                    n="531">οἱ Κῦνόν τ᾽ ἐνέμοντ᾽ Ὀπόεντά τε Καλλίαρόν τε·</l>
+                    n="531">οἱ <placeName n="urn:cite:hmt:place.place199">Κῦνόν</placeName> τ᾽ ἐνέμοντ᾽ <placeName n="urn:cite:hmt:place.place260">Ὀπόεντά</placeName> τε <placeName n="urn:cite:hmt:place.place317">Καλλίαρόν</placeName> τε·</l>
                 <l
-                    n="532">σβῆσσάν τε· σκάρφην τε καὶ <add place="supralinear"><num value="32">ΛΒ</num></add>Αὐγειὰς ἐρατεινάς·</l>
+                    n="532">σβῆσσάν τε· <placeName n="urn:cite:hmt:place.place318">Σκάρφην</placeName> τε καὶ <add place="supralinear"><num value="32">ΛΒ</num></add><placeName n="urn:cite:hmt:place.place209">Αὐγειὰς</placeName> ἐρατεινάς·</l>
                 <l
-                    n="533">Τάρφην τε· θρόνιον τε βοαγρίου ἀμφὶ ῥέεθρα·</l>
+                    n="533"><placeName n="urn:cite:hmt:place.place319">Τάρφην</placeName> τε· <placeName n="urn:cite:hmt:place.place320">Θρόνιον</placeName> τε βοαγρίου ἀμφὶ ῥέεθρα·</l>
+                --STOP--
                 <l
                     n="534">τῷ δ᾽ ἅμα τεσσαράκοντα μέλαιναι νῆες ἕποντο</l>
                 <l
