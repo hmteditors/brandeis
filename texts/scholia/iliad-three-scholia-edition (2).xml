@@ -1,0 +1,3444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="scholia-css/tei-scholia.css" title="TEI
+style simple scholia" alternate="no"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edition of Iliad 3, lines 1-488</title>
+                <author>Leonard Muellner</author>
+                <author>Melanie Steinhardt</author>
+                <author>Kristina Birthisel</author>
+                <author>Alex Arad</author>
+                <author>Ana-Sofia Meneses</author>
+                <author>Ben Davis</author>
+                <author>Devora Gleiber</author>
+                <author>Jennifer Scontras</author>
+                <author>Daniel Cline</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus B MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <!-- groups different scholia documents for Iliad 3 -->
+        <!-- in this document we intend to differentiate between supralinear and above as @place in the add element -->
+        <group n="2">
+            <!-- Edition of main scholia -->
+            <text n="msB">
+                <body>
+                    
+                    <div ana="1" n="3000" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Θ</num></add>ἕκαστοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.1</p>
+                        </div>
+                        <div type="comment">
+                            <p>πῶς ἐπὶ δύο στρατιωτῶν τὸ ἕκαστοι ἔσταξεν· ἢ ὅ τικτὰ ἔθνη καὶ φυλὰς διεκοσμήθησαν· ἤ ἀντι τοῦ ἑκάτεροι <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶες</rs> 
+                                τὲ καὶ <rs type="ethnic" n="urn:cite:hmt:place.place3"> Ἕλληνες</rs>· ὡς τὸ δενδίλλωνες· ἕκαστον· δύο 
+                                 γὰρ οἱ πρέσβεις· ἔστι δὲ ἀττικον‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="2" n="3001" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Ϊ</num></add>κλαγγῆι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.2</p>
+                        </div>
+                        <div type="comment">
+                            <p>κλάζω κλαγὴ <unclear>κατὰ</unclear> αλεονασμὸν τοῦ ἑνος <rs type="waw">γ</rs> κλαγγή· ἐνοπῆι δὲ, τῆ εἰς ὀπὴν ὤτων φέρεσθαι
+                                δυναμενήι βοῆι· τὸ μέν τοι διάκενον τῆς πορείας ἀναπληροῦσαν αἱ
+                                παραβολαὶ· ἀμφοτὲρας δὲ τὰς στρατιὰς διατυποῖ· καὶ μέχρι τέλους, οὐκ
+                                ἐξίσταται τοῦ ἤθοω· ὥς τ' ὄϊες πολυπάμμονος· καὶ ἐστπώων ὅμαδον
+                                κίε‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="3" n="3002" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>  οὐρανόθι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.3</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ τὸν περὶ τὰ νέφη τόπον· καὶ τὸν ἀπὸ νέφελῶν εἰς <choice>
+                                    <abbr>οὐνον</abbr>
+                                    <expan>οὐρανὸν</expan>
+                            </choice> οὕτω καλεῖ· παρέλκει δὲ ἡ <rs type="waw">πρό</rs>· 
+                                τὴν δὲ τοῦ ἀπόδοσιν εἰς τὸ ἠΰτε· εἶτα φησῖν· ὅτι <unclear>μετὰ</unclear>
+                                τοσαύτης πορέυον κραυγῆς ὅσης αί γέρανοι‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div ana="4" n="3003" type="scholion">
+                        <div type="symbol">
+                            <p> <add place="supralinear"><num value="12">ΙΒ</num></add> ἀθέσφατον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.4</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅν οὐδεις ὅσος ἐστὶν ἑρμηεύσειε λόγος‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    
+                    <div ana="5" n="3004" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>ὠκεανοῖο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.5</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ εἰς ῥοὸις <rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικῶς</rs>· τὸ ἀδιάλειπτον δὲ τοῦ θορύβον δηλῶν, πολλάκις ὀνομὰζει τὴν κλαγγήν· τὰδὲ δεὶλότερα τῶν ζωων, φωνητικώτερα μᾶλλον τῶν ἀνδρείων‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div ana="6" n="3005" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>Πυγμαίοισι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.6</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῶι ζένωι τῆς ἱστορίας, ψυχαγωγεῖ τὸν ἀκροατην ὅν θειν καὶ τὸν θροῦν
+                                ἐπ' άπειρον ἄυζει· φησὶ δὲ ((<persName n="urn:cite:hmt:pers.pers264">Ἑκαταῖος</persName>)) μετὰ σχηματῶν κριῶν τοὺς
+                                πυγμαίσυσ ἐζ ερχομενοθς, πολεμεῖν αυταῖς· ἃι καταφρονοῦσαι τοῦ
+                                μήκουσ, συνείρουσι πόλεμον‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="8" n="3006" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἴσαν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.8</p>
+                        </div>
+                        <div type="comment">
+                            <p>ταύτης ποῦ τῆς παραβολῆς ἡ ἀπόδοσις <unclear>ἦ</unclear> τάχα, εἰς τὸ
+                                <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶες</rs> μὲν κλογγῆι ἐνοπῆι τ' ἴσαν· οἵ δ' ἂρ ἴσαν ἠΰτε περ· ἵνα τὸ
+                                ἠΰτε ἀπόδοσις ἦι· ἐπεὶ δὲ πολλάκις καὶ κατάπληξις σιωπεὶν ποιεῖ, τὸ
+                                μένεα προστέθειται‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="9" n="3007" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>ἀλεξέμεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.9</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο γὰρ ἐν ταῖς φάλαγξι· σκέπει γὰρ τὸν ὑπασπίζοντα ἕκατος ὡς
+                                αὐτὸν, κ' ἀκεῖνος τοῦτον‡</p>
+                        </div>
+                    </div>
+                  
+                    
+                    <div ana="11" n="3008" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>ποιμέσιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.11</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐ τοῖς βουκόλοις· ἐπεὶ` μὴ νέμουσιν ἡμέρας διὰ τοὺς οἴστρους‡</p>
+                        </div>
+                    </div>
+                  
+                    
+                    <div ana="12" n="3009" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>ὅσον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.12</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀόριστα ταῦτα· ὡς τὸ ὅσον τε γέγωνε βοήσας‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="13" n="3010" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>κονίσαλος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.13</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice><abbr>Ἀριστοφά</abbr><expan>Ἀριστοφάνης</expan></choice>· γράφει κονισάλου ὤρνυτ' αλλής· 
+                                ἄριστος· δὲ κριτὴς ὁμοιοτήτων <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName>· ὀμίχλη· γὰρ καὶ κονιορτὸς ὁμόχροα, καὶ ὁμοίως ἐπιπροσθοῦντα τοῖς ὄμμοισιν‡</p>
+                        </div>
+                    </div>
+                    
+               
+                    <div ana="16" n="3011" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="20">Κ</num></add>προμάχιζεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.16</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ δίκαιον νομοθετεῖ· οἱ γὰρ αἴτιοι προασπίξουσιν· ἐγείρει τὲ τὸν ἀκροατὴν· ορικινδθνεύοντα εἰσάγων, 
+                                τὼν πλείστων κινδύνων ἐτέροις αἴτιον· ὁ δὲ <rs type="waw">μεν</rs> τὸν <rs type="waw">δε</rs> ἐνταῦθα 
+                                οὐκ ἐπάγεται· δια τί δὲ θεοειδέα φησὶ τὸν πάσαις κακίαισ χρώμενον· τοῦτο γὰρ ἐγκωμϊαξοντος δόξειεν εἶναι καὶ
+                                ἀποσεμνθνοντος τὸν ἄνδρα· λεκτέον δὲ ὅτι εἰ μὴ πάντα ἐπαινῶν ἐφαίνετο τὰ ἐν τούτωι, δικαία ἦν ἂν ἡ μέμψις· ἐπαινεῖ
+                                δὲ αὐτοῦ τὴν μορφὴν. ἵνα καὶ ἐπὶ τῶν ψεκτῶν νομίζηται ἀληθεύειν· εἶτα καὶ μεῖξον κατασκεθάζεται τὸ μῖσος, εἰ
+                                τοιοῦτος ὢν τὴν μορφὴν καταισχύνει‡</p>
+                        </div>
+                    </div>
+                    
+
+                    <div ana="18" n="3012" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="21">ΚΑ</num></add>δοῦρε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.18</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ αὐτὰρ παρὰ <persName n="urn:cite:hmt:pers.pers15">Ζηνοδότω</persName>ͅ καὶ τοῖς ἄλλοις οὐκ ἐπάγεται τὸ ἄρθρον· ὅμως
+                                οὖν ἔστι καὶ τοῦτο τῆς ((<persName n="urn:cite:hmt:pers.pers17">Ὁμηρικῆς</persName>)) συνηθείας· ἔθος γὰρ αὐτῶι περὶ
+                                αὐτοῦ διαλεγομένωι μεσολαβεῖν τὸ ἄρθρον, ὡς καὶ περὶ ἄλλου λέγων
+                                ποιεῖ· ((<placeName n="">Σαρπηδὼν</placeName>)) αὐτοῦ μὲν ἀπήμβροτεν· ὁ δὲ` <placeName n="urn:cite:hmt:place.place185">Πήδασον</placeName>· ἐπιφέρεται δὲ
+                                τὼ δοῦρε, δῆθεν ἵνα εἰ ἀποτύχη τοξεύων προσπεσὼν μάχοιτο‡</p>
+                        </div>
+                    </div>
+                
+                    
+                    <div ana="19" n="3013" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="22">ΚΒ</num></add>Ἀργείων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.19</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῆι φαντασίαι οὐτῶι λόγῳ· αὐτὸς γὰρ <choice>
+                                    <abbr>φΗ</abbr>
+                                    <expan>φησιν</expan>
+                                </choice> ἐφέλκεται ἄνδρα σίδηρος· κραδαίνων τοί νυν τὸ δόρυ
+                                προεκαλεῖτο τοὺς τῶν ἀργείων ἀρίστους εἰς μάχην· ἢ τοὺς ἀριτεῖς τῶν
+                                    <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs>
+                                προετρέπετο <choice>
+                                    <abbr>κτ` τ Ἑλλη</abbr>
+                                    <expan>κατὰ τῶν Ἑλληνών</expan>
+                                </choice>· ἦθος δὲ θρασθδείλων κωμωδεῖ· διὰ <persName n="urn:cite:hmt:pers.pers129">Πάριδος</persName>, <persName n="urn:cite:hmt:pers.pers555">Δόλωνος</persName>· <persName n="urn:cite:hmt:pers.pers310">Θερσίτου</persName>, <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>· καὶ τὸ μὲν
+                                προπετὲς ἐν ἐπαγγέλματι· τὸ δὲ δειλὸν ἐν πράξει· τὸ δὲ ἐπονείδιστον
+                                ἐν τέλει‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="21" n="3014" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">A</num></add>ἐνόησεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.21</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὗτος γὰρ ἦν μόνον ἑστὼς καὶ τὸν ἀδιηήσαντα ζητῶν· ὁ δὲ, ἀλαζονεία
+                                ἐπποημένος‡</p>
+                        </div>
+                    </div>
+                  
+                    
+                    <div ana="23" n="3015" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>σώματι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.23</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ σώμα <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> μὲν
+                                ἐπὶ νεκροῦ· οἱ δὲ ἄλλοι καὶ ἐπὶ ζώτων· λέγει δὲ ἐκεῖνον· ἢ ὃν αὐτὸς
+                                νεκρὸν εἰργάσατο, ἢ τὸν τοζευθέν τα· καὶ ὁ μὲ` ν ἐλάφωι καὶ τεθνεῶτι
+                                παρείκασται· ὁ δὲ` λέοντι καὶ πεινῶντι· μέγα δὲ πρὸς θάρσος, καὶ
+                                δειλίας ὄνειδος· αἶγα δὲ διό τι καταφερὴς καὶ κερασφόρος ὁ τρᾶγος·
+                                τοξότης δὲ καὶ ὁ <persName n="urn:cite:hmt:pers.pers129"
+                                    >Πάρις</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="25" n="3016" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>πεινάων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.25</p>
+                        </div>
+                        <div type="comment">
+                            <p>δύναται ἐπὶ τοῦ πεινάων. καὶ στιγμὴ καὶ ὑποστιγμὴ εἶναι· οὐ γὰρ
+                                συναπτέον τοῖς ἑξῆς. χαλεπὸς δέ ἐστι πεινῶν, ὅσον ἥμερος βεβρωκώς·
+                                τῶν γὰρ ἄλλων ἐστὶ θερμότερος· ὥσπερ οὖν τοῦτον παροξύνει λιμὸς καὶ
+                                εἰς ἀπερίσκεπτον κίνδυνον, οὕτως καὶ νέον ἄνδρα πολεμίον ζῆλος, εἰς
+                                ἀνεκλόγιστον ἀγῶνα προτρέπεται‡</p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div ana="28" n="3017" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>ὀφθαλμοῖσιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.28</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρώην γὰρ ἀναπολῶν αὐτὸν τῆι διαωοιαι νῦν τῆι θέαι πρὸς ἐρεθισμὸν
+                                ἐδέξατο‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="29" n="3018" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>ὀχέων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.29</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπὸ τοῦ ἔχω ὄχος καὶ ἀπ' αὐτοῦ τοῦτο· ὅθεν καὶ τὸ ἐς δ' ὄχεα φλόγεα
+                                ποσῒ βήσετο‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="31" n="3019" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>φανέντα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.31</p>
+                        </div>
+                        <div type="comment">
+                            <p>φανέντα μόνον οὐ δὲ μαχόμενον· διὰ δὲ τοῦ ἐξ ὀχέων πέφρακεν ἐν
+                                σχήματι, ὡς ἱππεὺς ἦν ὁ <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="33" n="3020" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>δράκοντα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.33</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀνωτέρω περὶ τοῦ λέοντος ἐξειργάσατο οὐ τοῦ ἐλάφου· τοῦ δρῶντος γὰρ
+                                ἦν ἡ εἱκών· καὶ τὰ μὲν ἄλλα τῶν ζώων καὶ πόρρωθεν ὁρᾶται μεγέθει ἢ
+                                φωνῆι· ὄφις δὲ ἐγγὺς γεγονότι παραδόξως ὁρᾶται ὃ συνέβη ((<persName n="">Ἀλεξάνδρωι</persName>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="34" n="3021" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>γυῖα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.34</p>
+                        </div>
+                        <div type="comment">
+                            <p>πάντα τὰ μέλη· ὡς τὸ, ἀπὸ πραπίδων ἦλθ' ἵμερος ἤδ' ἀπὸ γυίων‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="35" n="3022" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>ἂψ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.35</p>
+                        </div>
+                        <div type="comment">
+                            <p>συνωνύμως τὸ παλινορσος‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="35" n="3023" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>ὦχρός</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.35</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὥσπερ τὸ μῶμος· ἅχροος, ἄοχρος, ὦχρος‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="35" n="3024" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>παρειὰ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.35</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                οὐδετέρως· ἔν τισι δὲ θηλυκῶς· τὸ δὲ παρειὰ, ὡς τὸ ἀγαθά· τὰ γὰρ ἀπὸ
+                                τῶν θηλυκῶν <rs type="ethnic" n="urn:cite:hmt:place.place79">Ἰωνικῶς</rs> μεταποιούμενα εἰς οὐδετέρον γένος, φυλάσσει τὸν
+                                αὐτὸν τόνον· ἡ πλευρὰ, τὰ πλευρά· οὕτως οὖν καὶ τὸ παρειὰ
+                                παρῆκται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="36" n="3025" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>ἀγερώχων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.36</p>
+                        </div>
+                        <div type="comment">
+                            <p>λίαν γέρας ἐχόντων· ἄμεινον δὲ ἐνταῦθα τὸ μεγαλοφρόνων‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="37" n="3026" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>Ἀτρέος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.37</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τοῦ ὀνόματος τοῦ <choice>
+                                    <abbr>πρς</abbr>
+                                    <expan>πατρὸς</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>, καὶ τὸ
+                                τούτου παρεδήλωσεν ἀδεὲς ἐν σχήματι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="39" n="3027" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>Δύσπαρι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.39</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἠθικῶς τὸ τῆς παρονομασίας προσέρριψε τῶι ὀνόματι· δυσχεραίνων ὡς καὶ
+                                    <rs type="waw">Κακοΐλιόν</rs> που φησὶν ἡ <persName n="urn:cite:hmt:pers.pers284">Πηνελόπη</persName>· ἐπὶ δὲ τῶι
+                                εἴδει ἐφ' ὧι καὶ μεγαλύνεται, διασύρει αὐτόν· ὄνειδος δέ ἐστιν,
+                                εἶδος οὐχ' ὁμοιούμενον ψυχῆι· ὡς τὸ <cit>
+                                    <q>Ἕκτορ εἶδος ἄριστε</q>
+                                    <ref>urn:cts:greekLit:tlg0012:tlg001:msB:17.142</ref>
+                                </cit>καὶ <cit>
+                                    <q>σὲ δὲ, μή τι νόον κατελεγχέτω εἶδος</q>
+                                    <ref>Hsd. opp. 714</ref>
+                                </cit>· γυναιμανὴς δὲ, ὁ τὰς γυναῖκας ὡς μενάδας τῆι τῆς ὥρας ποιῶν
+                                ἀπάτηι· ἢ ὁ ἐπ' αὐταῖς μαινόμενος‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="40" n="3028" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἔμεναι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.40</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐνταῦθα ὁ <rs type="waw">τε</rs> ἀντὶ διαζευτικοῦ τοῦ <rs type="waw">η</rs> ὡς καὶ ὁ <rs type="waw">καὶ</rs>· οἷον <cit>
+                                    <q>πρώτηισι καὶ ὑστατίηισι βόεσσι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:15.634</ref>
+                                </cit>· τῶ· δὲ θυμῶι ἡττώμενος, ἐπὶ τὸ ἀδύνατον τῆς κατάρας
+                                ἐκπίπτει‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="41" n="3029" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>βουλοίμην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.41</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐβουλοίμην ἂν τοῦτο, ὡς καλῶς γενησόμενον· ἀλλὰ καὶ πολύ φησὶ
+                                κρεῖττον ἂν ἐγεγόνει σοὶ δηλονότι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="42" n="3030" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>ἔμεναι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.42</p>
+                        </div>
+                        <div type="comment">
+                            <p>δεῖ στίζειν εἰς τὸ ἔμεναι, καὶ τὸ λοιπὸν συνάπτειν ἕως τοῦ ἄλλων· ἵν'
+                                ἦι βουλοίμην ἄν σε ἄγονον καὶ ἄγαμον εἶναι τοὺς ἄλλους ὑφορώμενον,
+                                μή πως ἃ δράσεις πείσηι· βαρύτερον δὲ φόβου ἐχθρῶν ἡγεῖται, τὸ τῶν
+                                πολιτῶν μῖσος· <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφά</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName> δὲ <q>ἐπόψιον</q> γράφει καὶ οὐ στίζει· ἵν'
+                                ἦι οὕτω λώβην εἶναι καὶ κερδᾶναι τὴν ἀπὸ τῆς φυγῆς αἰσχύνην ἐπὶ τῆς
+                                πάντων ὄψεως‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="43" n="3031" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>που</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.43</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ ἑξῆς οὕτως· ἦ που καγχαλόωσιν οὔνεκα καλὸν εἶδος ἔπ' ἀλλ' οὐκ ἔστι
+                                βίη φρεσσὶ, τὸ δὲ φάντες διὰ μέσου· ἵν' ἦι· καί τοι σε ἀριστέα
+                                ὑπονοήσαντες εἶναι διὰ τῆς καθοπλίσεως, καὶ τοῦ προηγεῖσθαι τῆς
+                                τάξεως· ἐκ προοιμίου δὲ τὸ φιλότιμον <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> δείκνυται καὶ
+                                τῆς παρὰ πολλοῖς πεφροντικὸς δόξης· αἰδέομαι γάρ φησι <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶας</rs>· καὶ
+                                    <persName n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName> ὃς
+                                σέο πολλὸν ἀμείνων· τόν δ' ἔκτανε φαίδιμος <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>· πότε δὲ ὑπέλαβον
+                                    <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνες</rs>
+                                    ((<persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρον</persName>)) ἀριστέα εἶναι· δηλον ὅτι ὁπότε πάλλων τὰ
+                                δόρατα, <cit>
+                                    <q><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs> προκαλίζετο πάντας ἀρίστους</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.19</ref>
+                                </cit>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="45" n="3032" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>ἔπ' ἀλλ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.45</p>
+                        </div>
+                        <div type="comment">
+                            <p>μετὰ τὸ εἶδος ἔπϊ ἐὰν στίξης, τὸ ἑξῆς ὡς ἀπὸ τοῦ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> δώσεις ἐὰν δὲ
+                                ὑποστίξης ὃ καὶ ἄμεινον, ἀπὸ κοινοῦ τὸ <cit>
+                                    <q>φάντες</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.44</ref>
+                                </cit>· ὅτι καλὸς μέν ἐστι, γύννις δέ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="46" n="3033" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="20">Κ</num></add>τοιόσδε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.46</p>
+                        </div>
+                        <div type="comment">
+                            <p>τινὲς κατὰ πεῦσιν καὶ θαυμασμόν τοιοῦτος ἂν δειλὸς· συναγαγὼν πλῆθος
+                                διελθὼν πέλαγος, γυναῖκα ἀνδρὸς πολεμικοῦ ἤγαγες· σῶ· τὲ <choice>
+                                    <abbr>πρὶ</abbr>
+                                    <expan>πατρὶ</expan>
+                                </choice> καὶ τοῖς ἄλλοις κακὸν μέγα· εἶτα ἀπὸ ἄλλης ἀρχης· οὐκ ἂν
+                                δὴ μείνειας <persName n="urn:cite:hmt:pers.pers119"><choice>
+                                        <abbr>Μενέλα</abbr>
+                                        <expan>Μενέλαον</expan>
+                                    </choice></persName>· ἠθικῶς μετὰ πέυσεως. ἢ διαβεβαιωτικῶς.
+                                τινὲς δὲ τὸ πᾶν οὕτως· τὸν <rs type="waw">η</rs>
+                                <choice>
+                                    <abbr>ἀντ`</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <rs type="waw">ει</rs>. εἰ τοιοῦτος ὢν ἐπηγάγου
+                                πλῆθος· καὶ ἀπὸ ξένης γῆς γυναὶκα ανδρὸς πολεμικοῦ ἤγαγες, οὐκ ἂν
+                                ὑπομείναις τὸν ταύτης <choice>
+                                    <abbr>ἄνδρ</abbr>
+                                    <expan>ἄνδρα</expan>
+                                </choice>· ὃπροκρίνει <persName n="urn:cite:hmt:pers.pers76">Νικάνωρ</persName>, ὡς μᾶλλον τῆν δικαιολογίαν ἔχον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="47" n="3034" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="21">KA</num></add>ἐρίηρας</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.47</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρὰ τὸ ἀρωι μόριον, καὶ τὶ ἀρῶ τὸ ἁρμόζω‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="49" n="3035" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="22">ΚΒ</num></add>νυὸν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.49</p>
+                        </div>
+                        <div type="comment">
+                            <p>πάντες γὰρ οἱ ἄριστοι τὴν <persName n="urn:cite:hmt:pers.pers94">Ἑλενην</persName> ἐμνηστεύσαντο· μόνου
+                                δὲ <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>,
+                                θαλερὴ γέγονε παράκοιτις‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="50" n="3036" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="23">ΚΓ</num></add>σῶι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.50</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀκόρεστον καὶ ἄτακτον ὁ θυμός· πολλὰς γοῦν ὁ ποιητὴς ἐπὶ τῶν
+                                ὀργιζομένων εἴωθε ποιεῖσθαι ἀρχὰς ἀσύνδετον ἐῶν τὸν λόγον, ὡς τὸ <cit>
+                                    <q>οἰνοβαρὲς</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:1.225</ref>
+                                </cit>καὶ τὰ ἑξῆς· ἄτοπον γὰρ, τῆμα τῆν <persName n="urn:cite:hmt:pers.pers94">Ἑλενην</persName> καλεῖν <persName n="urn:cite:hmt:pers.pers172">Ἑκτορα</persName>· <choice>
+                                    <abbr>πε</abbr>
+                                    <expan>περι</expan>
+                                    </choice> οὗ φησὶν· <cit><q>ἀλλ' οὔπω σεῦ ἄκουσα κακὸν ἔπος</q><ref>urn:cts:greekLit:tlg0012.tlg001:msB:24.767</ref></cit>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="53" n="3037" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="24">ΚΔ</num></add>γνοίης</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.53</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἷος ὤν φησι τίνα τίνος ἐστέρησας· οὐκ ἄρα ((Χίλωνος)) ὡς ὑποφαίνεται
+                                δόγμα τὸ, <q>γνῶθι σαυτὸν</q>· ἀλλ' <persName n="urn:cite:hmt:pers.pers17">Ὁμήρου</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="54" n="3038" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="25">ΚΕ</num></add>κίθαρις</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.54</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ ἐπὶ πορνείαι, πρὸς χάριν <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτης</persName>· ἀλλ' οὐ <persName n="urn:cite:hmt:pers.pers6">Μουσῶν</persName> ἀδομένη· ἡ δὲ
+                                    <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεώς</persName>
+                                κιθάρα· καὶ τὸ εἶδος ἐνάρετον· πᾶν δὲ σωματικὸν πλεονέκτημα δίχα
+                                ψυχικῆς ἀρετῆς, ἀχρεῖον ἐστι διὸ αὐτὰ καὶ <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτης</persName> φησίν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="56" n="3039" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="26">ΚϚ</num></add>δειδήμονες</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.56</p>
+                        </div>
+                        <div type="comment">
+                            <p>εὐλαβεῖς περὶ τοὺς ἄρχοντας· φιλάδελφος δὲ, ὅς κατὰ πρόσωπον
+                                λοιδορεῖ· ἡττώμενον δὲ οὐ προδίδωσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="57" n="3040" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="27">ΚΖ</num></add>ἕνεχ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.57</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰς τὸ ἕνεκα στικτέον· καὶ τὸ ἑξῆς ἰδίαι προενεκτέον ἐν ἤθει‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="59" n="3041" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="28">ΚΗ</num></add>Ἕκτορ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.59</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὔτε κασιγνητον φησὶν οὔτε φίλον· πᾶσαν γὰρ εὐνοϊκὴν προσηγορίαν ὁ
+                                θυμὸς ἐξέκοψε. τὸ δὲ ἑξῆς οὕτως· ἐπεί με κατ' αἶσαν ἐνείκεσας, μή
+                                μοι δῶρα· διὰ μέσου δὲ ἡ περὶ βολή· τοιοῦτον δέ φησϊν· ὅτι
+                                ἐπιπλήττει μὲν αὐτῶι εἰκότα οὐ μὴν ἀληθῆ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="60" n="3042" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>τοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.60</p>
+                        </div>
+                        <div type="comment">
+                            <p>μή τι οὖν με καταγίνωσκε τοιοῦτος ὢν καὶ πρὸς ἑαυτὸν συγκρίνων· εὖ δὲ
+                                καὶ εἰκόνα απαθετάτην εὗρε τὴν τοῦ σιδήρου· καὶ οὐκ ἀργοῦ, ἀλλὰ
+                                δρῶντος τί‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="62" n="3043" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>ὀφέλλει</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.62</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὀξὺς ὢν καὶ ἠκονημένος τὴν τοῦ τέμνοντος αὔξει ὁρμὴν, ὥσπερ θραύει ὁ
+                                ἀμβλύς‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="63" n="3044" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>ἀτάρβητος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.63</p>
+                        </div>
+                        <div type="comment">
+                            <p>δύο ὑπεροχῶν ὁμοιότητας παρέθετο· πελέκεως καὶ γνώμης· ὡς εἴ τις
+                                λέγει· ὅσον ἦν <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> πρᾶξαι δυνατὸς, τοσοῦτον <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> βουλεύειν·
+                                    <persName n="urn:cite:hmt:pers.pers44">Χρυσῆν</persName> δὲ τὴν
+                                    <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτην</persName> ἀπὸ
+                                τῆς στολῆς καλεῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="68" n="3045" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>ἄλλους</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.68</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν σχήματι δηλοῖ ὅτι οὐ διὰ τὴν <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> δύναμιν
+                                δειλιᾶ, ἀλλὰ διὰ τὴν τῶν συμμαχούντων· καὶ δια <choice>
+                                    <abbr>τοῦτ</abbr>
+                                    <expan>τοῦτο</expan>
+                                </choice> μόνον μόνωι αἰτεῖ πολεμῆσαι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="69" n="3046" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>ἐν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.69</p>
+                        </div>
+                        <div type="comment">
+                            <p>βαρβαρικὸν τὸ μονομαχεῖν ἔθος· τὸ δὲ ἐπίθεον <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>, ποιητικόν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="70" n="3047" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>συμβάλετ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.70</p>
+                        </div>
+                        <div type="comment">
+                            <p>πολεμοῦσιν, ἵνα ὁ μὲ` ν λάβη ἅπερ ἀφήρητο· ὁ δὲ` ἀσφαλῶς κτήσηται·
+                                εἰς δὲ τὸ νικήσει καὶ εἰς τὸ γένηται, βραχὺ διασταλτέον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="73" n="3048" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>ταμόντες</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.73</p>
+                        </div>
+                        <div type="comment">
+                            <p>δι' ἐντόμων ποιησάμενοι τουτέστι θυσιῶν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="74" n="3049" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>ναίοιτε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.74</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τὸ νεμεσητὸν, οὐκ εἶπε ναίοιμεν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="75" n="3050" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>Ἀχαιίδα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.75</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν πᾶσαν <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> γῆν· τῶι δὲ ἔρωτι <persName n="urn:cite:hmt:pers.pers94">Ἑλένης</persName> τοιαύτην πᾶσαν
+                                εἶναι ὑπολαμβάνει‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="76" n="3051" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>ἐχάρη</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.76</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰκότως ἥδεται· ἢ γὰρ νικήσει. ἢ ἀκλεοῦς ἀδελφοῦ ἀπαλλαγήσεται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="79" n="3052" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>τῶι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.79</p>
+                        </div>
+                        <div type="comment">
+                            <p>πληροῦν γὰρ τούτωι τὴν μάχην ὤιοντο· ((Ἀλεξάνδρου)) δὲ προϊόντος,
+                                οὐδὲ φροντίζουσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="80" n="3053" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>τιτυσκόμενοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.80</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπὸ μετοχῆς εἰς ῥῆμα· οἱ δὲ` ἀπὸ κοινοῦ τὸ ἔβαλλον· οἱ δὲ`
+                                τϊτυσκόμενοι ἰοῖς ἐτόξαζον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="87" n="3054" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>Ἀλεξανδροιο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.87</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἶδεν ἄδικα ἀξιῶν· διὸ <persName n="urn:cite:hmt:pers.pers129">Ἀλεξάνδρου</persName> φησὶν ἐρεέιν οὐχ' ἑαυτοῦ λόγον, ἐλευθερῶν
+                                ἑαυτόν· ἐπιδυσχεραίνων δὲ αὐτῶι, φησὶ τοῦ εἵνεκα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="94" n="3055" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>τάμωμεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.94</p>
+                        </div>
+                        <div type="comment">
+                            <p>μετὰ γὰρ τὴν ἱερείων τομὴν· οἱ ὅρκοι συντελοῦνται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="95" n="3056" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἀκὴν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.95</p>
+                        </div>
+                        <div type="comment">
+                            <p>καταπλήσσει αὐτοὺς τὸ ξένον· ὡς εἴ τις μοιχείαι διωκόμενος προκλοῖτο
+                                τὸν ἄνδρα τῆς γυναικὸς εἰς μάχην. ὡς μετὰ τοῦ γυναίου καὶ τὴν ψυχὴν
+                                ἀφελούμενος· <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName> δὲ, οὐδὲν φθέγγεται· οὔτε προκινδυνεύειν
+                                τὸν ἀδελφὸν θέλων φιλάδελφος γὰρ ἔπρεπε γινομένης τῆς κρίσεως περὶ
+                                τῶν ὅλων· πρεπόντως δέ πως οἱ πολλοὶ σιωπῶσιν· ἕνα γὰρ εἰς μάχην
+                                προεκαλοῦντο‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="97" n="3057" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>μάλιστα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.97</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀκούσατέ μου φησὶν· ὡς οἰδαμῶν μὲν ἐπὶ δικαίοις κινδυνεύσω· ἀλλὰ
+                                λυπούμενος ἐφ' ὑμῖν καταπονουμένοις· καὶ ἵνα ἀπαλλάξω ὑμᾶς τὸν
+                                ἀλυσιτελῆ ὑποδύομαι πόλεμον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="100" n="3058" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>ἐμῆς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.100</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπιεικῶς συγκατασπᾶ ἑαυτὸν, ὡς προσφιλονεικήσαντα τῶι ἄρξαντι·
+                                ἀντέστρεψε δὲ τὴν τάξιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="101" n="3059" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>ὁπποτέρω</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.101</p>
+                        </div>
+                        <div type="comment">
+                            <p>καταγνωστέοι φασὶν <persName n="urn:cite:hmt:pers.pers129"
+                                    >Ἀλέξανδρος</persName> μαχόμενος περὶ ὧν ἔχει, καὶ <persName
+                                    n="urn:cite:hmt:pers.pers119">Μενέλαος</persName> περὶ τῶν
+                                ἰδίων· ἀλλ' ὁ μὲ`ν εἶχε μὲν· οὐκ ἴδια δέ· μάχεται δὲ, ἵνα ἴδια
+                                γένηται ὁ δὲ` ἵνα τῶν ἰδίων κρατήση· καὶ ὁ ((μὲν`)) ἵνα τὴν πόλιν
+                                ἐλευθερώση· ὁ δὲ` ἵνα τὸ πρόστιμον ἀπαιτήση‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="103" n="3060" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>οἴσετε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.103</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐὰν στίζωμεν εἰς τὸ ἄρνε δυϊκὸν ἔσται· ἐὰν δὲ συνάψωμεν, πτώσεως
+                                αἰτιατικῆς· ἀπὸ κοινοῦ νοούμενον· ταῦτα δὲ θύουσιν, ἐπεὶ` καρποφόρα
+                                τῆι τριχί· καὶ ἥλιος δὲ καὶ γῆ αἴτϊα τῶν καρπῶν· διὰ τί δὲ οἱ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶες</rs> ((Γῆι))
+                                καὶ ((Ἡλίω))· ὅτι ὁ κίνδυνος περὶ σωτηρίας τῆς ἐν τῆι οἰκείαι· <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνες</rs> δὲ
+                                    <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName>, ἐπεὶ`
+                                ξένιος· περὶ ξενίαν δὲ ἠδικηνται· μέλαεναν δὲ καὶ λευκὸν, ὅτι
+                                οἰκείοτατα τὰ χρώματα ἑκατέρω τῶν θεῶν· ἐπὶ δὲ διὸς οὐκ εἶπε τι
+                                χρῶμα· γῆν μὲν γὰρ καὶ ἥλιον ὁρωμεν· ((Δία)) δὲ νοοῦμεν μόνον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="105" n="3061" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>δὲ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.105</p>
+                        </div>
+                        <div type="comment">
+                            <p>συνετῶς ἀξιοῖ ὅρκους γενέσθαι· ὅπως εἰ μὲν στέργοιεν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶες</rs>, εὖ
+                                ἔχοι· εἰ δὲ μὴ, ὁ <choice><abbr>θσ`</abbr><expan>θεὸς</expan></choice> αὐτοῖς ἐκπολεμήσαι· ἐμφρόνως δὲ τῶι γέροντι τοὺς ὅρκους
+                                πιστεύει‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="108" n="3062" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>ἠερέθονται</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.108</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀβέβαιοι εἰσι καὶ ἄστατοι· ἐπι καλΰτπει δὲ τὴν ὕβριν, ἐφ' ἅπαντας
+                                ἀνάγων τοὺς νεόυς τὸ ἔγκλημα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="109" n="3063" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>μετέησιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.109</p>
+                        </div>
+                        <div type="comment">
+                            <p>περὶ <persName n="urn:cite:hmt:pers.pers145">Πριάμου</persName> ὁ
+                                λόγος· πεπείραται γὰρ αὐτοῦ· ἡ δὲ στιγμὴ εἰ μὲν μετὰ τὸ μετέηισιν
+                                εἴη; οὕτως ὁ νοῦς· τὰ παρόντα καὶ τὰ μέλλοντα προορᾶι, ὅπως ἄμφω
+                                ἄριστα πραχθῆι· εἰ δὲ εἰς τὸ ὀπίσω, οὕτως· οἷς πάρεστιν ὁ γέρων εἰς
+                                τὸ νῦν καὶ τὸ μέλλον· ὅ ἐστιν ἑκάστοτε, ((προυβλέπει)) τὰ
+                                ἄριστα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="114" n="3064" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>τεύχεά</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.114</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰς ἀσπίδας· αὗται γὰρ τελαμῶνας εἰχον· οὐκ ὄχανα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="121" n="3065" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>λευκωλένωι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.121</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν ἀρχαῖς τῶ τῆς <persName n="urn:cite:hmt:pers.pers116">Ἥρας</persName> αὐτὴν ἐπιθέτωι κοσμεῖ· <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείας</rs> τὲ ἄμφω καλεῖ· <cit>
+                                    <q><persName n="urn:cite:hmt:pers.pers116">Ἥρη</persName> τ' <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείη</rs></q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:4.8</ref>
+                                </cit>· καὶ <cit>
+                                    <q><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείη</rs>
+                                        <persName n="urn:cite:hmt:pers.pers94">Ἑλένη</persName></q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:6.323</ref>
+                                </cit> · ἦλθε δὲ ἄγγελος, δηλονότι παρὰ τοῦ δίος· οὐ γὰρ αὐτάγγελος·
+                                θῆλυ δὲ, θήλεϊ πείθεται· ἐρωτική τε ἡ <persName n="urn:cite:hmt:pers.pers282">Ἶρις</persName>, καὶ ἀεὶ
+                                συμπαροῦσα τῆι <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτηι</persName>· τινὲς δὲ αὐτῆς εἰναι λέγουσιν 
+                                υἱὸν, τὸν ((<persName n="">Ἔρωτα</persName>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="123" n="3066" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>Ἀντηνορίδης</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.123</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὔτε τῆι γαλόω δοτικῆι, οὔτε τῆι <persName n="urn:cite:hmt:pers.pers453">Ἀντηνορίδαο</persName> ((γεαῖ?))
+                                ὑπήντησεν, ἄλλως σχματίζων τὸν λόγον· ἠγάπα δὲ τὸ γένος τοῦ
+                                    <persName n="urn:cite:hmt:pers.pers551">Ἀντήνορος</persName> ἡ
+                                    <persName n="urn:cite:hmt:pers.pers94">Ἑλενη</persName>, ἐπεὶ`
+                                πρώην ξένος ἦ τῶν <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλλήνων</rs>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="125" n="3067" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>μεγάρωι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.125</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο γὰρ ἐν διαίτημα γαμηθεισῶν· χηρῶν δὲ καὶ παρθένων ὑπερῶον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="126" n="3068" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>δίπλακα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.126</p>
+                        </div>
+                        <div type="comment">
+                            <p>δίμιτον χλαῖαν· τὸ δὲ μαρμαρέην τὴν λαμπράν· συνωδὸν δὲ τοῦτο, τῶι
+                                <q>ἰοδνεφὲς εἶρος ἔχουσα</q>· καὶ τῶ <q>φάρε' ὑφαίνουσ' ἁλιπορφυρα</q>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="127" n="3069" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>Τρώων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.127</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀξιόχρεων ἀρχετυπον ἀνέπλασεν ὁ ποιητὴς τῆς ἰδίας ποιήσεως· ἴσως δὲ
+                                τούτω τοῖς ὁρῶσιν ἐπειρᾶτο δεικνύναι τὴν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> 
+                                βίαν, καὶ τὴν <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> δικαίαν ἰσχύν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="128" n="3070" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>οὕς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.128</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐγκλιτικῶς· τὸ δὲ <cit>
+                                    <q>ἐμέθεν</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:1.575</ref>
+                                </cit>καὶ <cit>
+                                    <q>σέθεν</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:1.180</ref>
+                                </cit>, μόνα ὀρθοτονοῦνται παρ' αὐτῶι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="130" n="3071" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>θέσκελα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.130</p>
+                        </div>
+                        <div type="comment">
+                            <p>θεοείκελα· θέσκελα· ὡς θεόφατα· μετὰ γὰρ τὴν συγκοπὴν ὁ πλεονασμός·
+                                τὸ δὲ δεῦρο, ἀντὶ τοῦ ἄγε‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="132" n="3072" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">IE</num></add>πρὶν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.132</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο τὸ <rs type="waw">οι</rs>, ὑποτακτικόν ἄρθρον· τὸ δὲ ἑξῆς ἀντωνυμικόν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="134" n="3073" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>πέπαυται</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.134</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ μέσου τὸ πόλεμος δὲ πέπαυται· ἵν' ἦι οἵ δὴ νῦν ἕαται σιγῆι,
+                                ἀσπίσι κεκλιμένοι· παρα δ' ἔγχεα μακπὰ πέπηγε· πόλεμος δὲ πέπαυται·
+                                αὐτὰρ ((<persName n="">Ἀλέξανδρος</persName>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="135" n="3074" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>ἀσπίσι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.135</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑπὸ τῆς ἀπορρίψεως τῶν ὅπλων ἐμποδιζόμενοι πολεμεῖν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="137" n="3075" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΪΗ</num></add>ἐγχείηισι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.137</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ δέος δὲ ἀναιρεῖ τοῦ τοξευθῆναι <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="138" n="3076" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>φίλη</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.138</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι οὐ μνησικακήσει ὁ λαβών· τὸ δὲ κεκλήσηι, ἀντὶ τοῦ ἔσηι· ὡς τὸ, <cit>
+                                    <q>σὴ παράκοιτις κέκλημαι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:4.60-1</ref>
+                                </cit>‡</p>
+                        </div>
+                    </div>
+              
+                    <div ana="140" n="3077" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>ἀνδρός</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.140</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀγνοεῖ τὴν <persName n="urn:cite:hmt:pers.pers280">Θησέως</persName>
+                                ἁρπαγὴν ὁ ποιητής· ἢ τὸ προτέροιο, ἐπὶ μόνου <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> τέθεικεν· ὡς
+                                εῖναι δεύτερον ((<persName>Ἀλέξανδρον</persName>))· ἐπεὶ πρῶτον μεν
+                                ὑπὸ <persName n="urn:cite:hmt:pers.pers280">Θησεως</persName>. εἶτα
+                                    <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>·
+                                εῖτα ((<persName n="">Ἀλεξάνδρου</persName>))· <persName n="urn:cite:hmt:pers.pers553">Δηϊφόβου</persName>. καὶ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> ἐν ὀνείρωι ὧν
+                                αὐτὸς οὐ μέμνηται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="141" n="3078" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>ὀθόνηισιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.141</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὗτος γὰρ σώφρονι γυναικὶ κόσμος· καὶ ποικίλλειν γοῦν εἰδυῖα, οὐκ
+                                ἠμπίσχετο ποικίλα· ὀθόνη δὲ ὁ ἑανος, ὃ καὶ <cit>
+                                    <q>πέπλον</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:5.734</ref>
+                                </cit> καλεῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="142" n="3079" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>δάκρυ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.142</p>
+                        </div>
+                        <div type="comment">
+                            <p>δακρύει ὑπὲρ <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> δεδοικυῖα· ἢ καὶ τῆι μνήμηι αὐτοῦ μόνη
+                                συγχεῖται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="143" n="3080" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>οὐκ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.143</p>
+                        </div>
+                        <div type="comment">
+                            <p>στικτέον εἰς τὸ οἴη. καὶ τὸ ἑξῆς ἀσύνδετον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="144" n="3081" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>Αἴθρη</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.144</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰ μὲν ὁμωνυμία ἐστὶν, ἐατέον· εἰ δὲ οὔ, στικτέον ἐν τῶι ((<persName n="">Αἴθρηι</persName>)). καὶ τὸ ἑξῆς συναπτέον· πιθανώτερον δὲ
+                                ὁμωνυνίαν εἶναι· οὐ γὰρ ἂν τοσούτων οὖσα ἐτῶν, ἀμφιπολεῖν
+                                ἠδυνατο‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="148" n="3082" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>Οὐκαλέγων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.148</p>
+                        </div>
+                        <div type="comment">
+                            <p>μεταβὰς ἐπὶ ἕτερον γένος, καὶ κατὰ πτῶσιν ἤλλαξεν· <rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικὸν</rs> δὲ τὸ ἀπὸ αἰτιατικῆς
+                                εἰς εὐθεῖαν μεταβαινειν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="149" n="3083" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>δημογέροντες</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.149</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ γέρας ἐν τωι δήμωι ἔχοντες· ἀπὸ δὲ τούτων τῶν ἐνδόξων τοὺς πάντας δηλοῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="150" n="3084" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>γήραϊ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.150</p>
+                        </div>
+                        <div type="comment">
+                            <p>δύο γὰρ οἶδεν ἀνδρῶν καλλίστους ἀρετάς· <cit>
+                                    <q>βουλάς τ' ἐξάρχων ἀγαθὰς, πόλεμον τε κορύσσων</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:2.273</ref>
+                                </cit>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="150" n="3085" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>ἀγορηταὶ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.150</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐντελῶς μὲν, τῶι γήραϊ· γράφεται δὲ καὶ <q>γήρεϊ</q> ὡς <q>οὔδεϊ</q>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="151" n="3086" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>τεττίγεσσιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.151</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἄναιμα καὶ ψυχρὰ ταῦτα τὰ ζῶα· οἱ δὲ ἄρρενες ᾄδουσιν ἐφ' ὑψηλῶν
+                                καθήμενοι τόπων, διὰ τὸ θέρεσθαι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="152" n="3087" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>λειριόεσσαν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.152</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρὰ τὰ λείρια, ἀπὸ τῶν ὁρωνένων, ἐπὶ τὰ ἀκουόμενα· οἱ δὲ` τὴν ἐκ
+                                δρόσου ὡς βοτάνην ἀνθοῦσαν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="155" n="3088" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>ἦκε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.155</p>
+                        </div>
+                        <div type="comment">
+                            <p>αἰσχύνην γὰρ αὐτοῖς ὁ λόγος ἔφερε, παρ' ὥραν κάλλος γυναικὸς
+                                θαυμαξουσι· καὶ ἄλλως· φιλαλήθης ἡ μὴ κατὰ πρόσωπον μαρτυρία‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="156" n="3089" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>οὐ νέμεσις</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.156</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐ νεμεσητόν· ὡς τὸ
+                                    <q>οὐχ' ὁσίη</q>, 
+                                ἀντὶ τοῦ <q>οὐχ' ὅσιον</q>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="158" n="3090" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>αἰνῶς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.158</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ λίαν· ὡς τὸ <q>αἰνως γὰρ κεφαλήν τε καὶ ὄμματα</q> ἐκείνῳ
+                                ἔοικεν· οὐκ ὀρθῶς οὖν τινὲς τὸ αἰνῶς, τῷ <cit>
+                                    <q>πάσχειν</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.157</ref>
+                                </cit>συνάπτουσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="160" n="3091" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἡμῖν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.160</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὀρθοτονητέον τὴν ἡμῖν· μόλις δὲ ἀνακαλοῦνται τοῦ πάθους τὸν
+                                λογισμόν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="161" n="3092" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>καλέσσατο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.161</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐφώνησεν, ἀλλ' οὐ δι' ἀγγέλου ἐκάλεσε φίλον δὲ τέκος· ἵνα μὴ
+                                ((ὑπονοοῦσάτι)) ἐν αὐτοῖς δεινὸν, ἀποστραφῆ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="163" n="3093" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>πηούς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.163</p>
+                        </div>
+                        <div type="comment">
+                            <p>πηοὶ, οὐχ' οἱ κυρίως, ἀλλὰ οἱ ἐπείσακτοι συγγενεῖς‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="164" n="3094" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>μοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.164</p>
+                        </div>
+                        <div type="comment">
+                            <p>πατρικήν πως σώξων διάθεσιν κατὰ τὸν λόγον, οὔ φησιν αὐτὴν αἰτίαν·
+                                πῶς γάρ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="165" n="3095" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>ἐφώρμησαν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.165</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐμφαντικῶς ἀπὸ τῶν θηρευτικῶν κυνῶν φησὶ τὸ ἐφώρμησαν· δῆλον δ' ὅτι
+                                τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs> φησίν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="166" n="3096" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="20">Κ</num></add>ὥς μοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.166</p>
+                        </div>
+                        <div type="comment">
+                            <p>πῶς ἐν ταῖς πρώην πρὸ τείχους γενομέναις συμβολαῖς οὐ παρεκάλεσε
+                                    <persName n="urn:cite:hmt:pers.pers145">Πρίαμος</persName> ,
+                                παρ' <persName n="urn:cite:hmt:pers.pers94">Ἑλένης</persName> μαθεῖν
+                                τοὺς ἀρίστους· ὅτι ἐνόπλων αὐτῶν προσβαλλόντων τῷ τείχει, δυσχερὲς
+                                ἦν ἐπισημήνασθαι αὐτοὺς· καὶ τῶν ὅπλων πολλάκις δυναμένων ἀπατᾶν· ὡς
+                                καὶ ἐπὶ <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>· <cit>
+                                    <q>καί τοι τεύχεα καλὰ δότω· αἴ κέ σε τῷ γ' ((εἴσκοντες))
+                                        ἀπόσχωνται</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:11.798-9</ref>
+                                </cit>· συνήρτηται δὲ τοῦτο τῳ πρώτῳ· <cit><q>ὄφρα ἴδης πρότερόν τε πόσιν</q><ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.163</ref></cit>
+                                · ὡς μοι τόνδ' ἄνδρα· ἵν' ἦ τὸ <rs type="waw">ὥς</rs> ἀντὶ τοῦ <rs type="waw">ἵνα</rs>· τινὲς δὲ τὸ <rs type="waw">ὥς</rs> ἀντὶ τοῦ <rs type="waw">εἴθε</rs>
+                                · καὶ τὸ <rs type="waw">ὀνομήνης</rs>, ἀντὶ τοῦ <rs type="waw">ὀνομήναις</rs>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="172" n="3097" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="21">ΚΑ</num></add>μοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.172</p>
+                        </div>
+                        <div type="comment">
+                            <p>εὐφυῶς τὸ τῆς δυσαρεστήσεως ἰάσατο· φάσκουσα το μέν τι αὐτὸν
+                                αἰδεῖσθαι, το δέτι καὶ φοβεῖσθαι· ἐπεὶ` δὲ αὐτὴν <cit><q>τέκος</q><ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.162</ref></cit>
+                                αὐτὸς εἶπε. καὶ αὐτὴ φησὶ ὅτι <choice><abbr>πρικὴν</abbr><expan>πατρικὴν</expan></choice> αἰδῶ καὶ σέβας σώξως πρὸς 
+                                σέ· ἡ γὰρ ὑπερβαλλουσα τιμὴ, ἐν αἰδοῖ καὶ φόβῳ κεῖται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="173" n="3098" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="22">ΚΒ</num></add>ἀδεῖν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.173</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὄφελεν ἐν ἐμοὶ τερφθῆναι· εἰ δὲ ἀρέσαι λέγοι, δηλοῖ ὡς ὡραϊσθεῖσα ἠκολούθησεν ((<persName n="">Ἀλεξάνδρῳ</persName>))
+                                , ἀλλὰ μὴ ἀπατηθεῖσα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="179" n="3099" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="23">ΚΓ</num></add>ἀμφότερον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.179</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο συναπτέον, τῷ ἀγαθὸς, ἵν' ἦ κατ' ἄμφω ἀγαθὸς· καὶ τὸν ἰσχυρὸν γὰρ, ἀγαθόν φησιν· μέγιστα δὲ πρὸς
+                                βασιλείαν ταῦτα· τήν τε τῶν οἰκείων καὶ τὴν τῶν πολεμίων εἰρήνην πραγματευόμενα· τοιοῦτος δὲ <persName n="urn:cite:hmt:pers.pers22">Ἀγαμεμνων</persName>
+                                ; ὑπὸ μὲν <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> καὶ <persName n="urn:cite:hmt:pers.pers215">Διομήδους</persName>
+                                ἐνίοτε ὑβριζόμενος· ὑπὸ δὲ <persName n="urn:cite:hmt:pers.pers45">Ἀδράστου</persName>, ἱκεσίαν οὐ δεχόμενος‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="180" n="3100" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="24">ΚΔ</num></add>δαὴρ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.180</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὴν σημασίαν ὑπήντησε τοῦ κυνώπιδος καὶ τὸ ἐμός· δαὴρ γὰρ ἐμοῦ
+                                κυνώπιδος· ἢ οὕτως· εἴποτ' ἔην δαὴρ, ἐμὸς ἔην· τούτου δὲ τὸ θηλυκὸν,
+                                οὐ δάειρα ἀλλὰ γάλως· διὰ δὲ τοῦ δαέρος λεληθότως τὸν ἄνδρα
+                                ὀλοφύρεται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="182" n="3101" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="25">ΚΕ</num></add>μάκαρ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.182</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἱκανὸς πρὸς πίστιν ὁ παρὰ τῶν ἐχθρῶν οὐ κατὰ πρόσωπον γινόμενος
+                                ἔπαινος· σημειώσαιο δ' ἂν ὡς κατὰ πρόσωπον ((συλλαβ?)) ηὔξηται μετ'
+                                ἐκπλήξεως ὁ ἔπαινος κλιμακηδόν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="184" n="3102" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="26">ΚϚ</num></add>Φρυγίην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.184</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν παρὰ <placeName n="urn:cite:hmt:place.place199">Σαγγαρίω</placeName> ἥ ἐστι μεγάλη· ἡ γὰρ μικρὰ 
+                                παρὰ τῇ <placeName n="urn:cite:hmt:place.place15">Τροίαι</placeName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="186" n="3103" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="27">ΚΖ</num></add>λαοὺς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.186</p>
+                        </div>
+                        <div type="comment">
+                            <p>λαοὺς τοὺς ἐπικούρους φησίν· ὡς τὸ <q>λαοί δ' <persName n="urn:cite:hmt:pers.pers22">Ἀτρείδεω Ἀγαμέμνονος</persName></q>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="187" n="3104" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>ὄχθας</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.187</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τούτου τὸ μῆκος ἴσως τοῦ ποταμοῦ δηλοῖ· διϊὼν γὰρ <rs type="ethnic" n="urn:cite:hmt:place.place200">Φρυγίαν</rs>
+                                , ἔξεισι διὰ ((<placeName n="">Βιθυνίας</placeName>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="188" n="3105" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>ἐὼν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.188</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἴσως γὰρ διὰ τούτου, καὶ τοῦ γάμου τῆς <persName n="urn:cite:hmt:pers.pers557">Ἐκάβης</persName> ἠξίωται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="189" n="3106" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>Ἀμαζόνες</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.189</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρὰ τῷ ((<placeName n="">Θερμώδοντι</placeName>)) αὗται ᾤκουν· αἱ
+                                δὲ ἐπιφανεῖς αὐτῶν, ((<persName n="">Ἱππολύτη</persName>))·
+                                    ((<persName n="">Ἀντιόπη</persName>)), ἣν ἥρπασε <persName n="urn:cite:hmt:pers.pers280">Θησεύς</persName> · ((Ἀναῖα))·
+                                    <persName n="urn:cite:hmt:pers.pers171">Ἀνδρομάχη</persName>·
+                                    ((<persName n="">Γλαύκη</persName>)) ((<persName n="">Ὀτριρὴ</persName>)), ἧς <persName n="urn:cite:hmt:pers.pers331">Πενθησίλεια</persName> · ἅς φασιν ἐπὶ πυριπνόων ἵππων
+                                μαχομένας, ληϊζεσθαι τὰς περιχώρους· καταδραμεῖν τὲ ὕστερον τὴν <rs type="ethnic" n="urn:cite:hmt:place.place200">Φρυγίαν</rs> λείας
+                                ἕνεκεν ἐπὶ ((<persName n="">Μυγδόνος</persName>)) τοῦ ((Ἄκμωνος))·
+                                ὠνομάσθησαν δὲ, παρὰ τὸ μὴ ἔχειν τὸν ἕτερον τῶν μαζῶν· ἐπυράκτουν
+                                γὰρ αὐτὸν πρὸς τὸ μὴ ἐμποδίζεσθαι ἐν τῇ τοξείᾳ· ἢ παρὰ τὸ μὴ
+                                χρῆσθαι μάζαις· χελώναις δὲ καὶ ὄφεσι καὶ σαύραις· ἀντιάνειραι δὲ.
+                                αἱ ἶσαι· ἣ ἐναντίαι τοῖς ἀνδράσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="190" n="3107" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>τόσοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.190</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀξιοθέατοι εὐγενεῖς τὴν θέαν· οὐκ ἀλόγως δὲ αὔξει τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs>
+                                · τῶν πλειόνων καὶ κρατῆσαι καλὸν, καὶ ἡττᾶσθαι οὐκ ἐπονείδιστον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="196" n="3108" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>ἐπιπωλεῖται</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.196</p>
+                        </div>
+                        <div type="comment">
+                            <p>περιφοιτᾷ, μή πως τίς δόλος εἴη κατὰ τὴν στρατίαν· στὶξ δὲ τὸ ἐκ δύο φαλάγγων· ὅ, ἐστι ((<choice><abbr>σμ</abbr><expan>?</expan></choice>))
+                                ἀνδρῶν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="197" n="3109" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>πηγεσιμάλλῳ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.197</p>
+                        </div>
+                        <div type="comment">
+                            <p>μελανομάλλω· οὗτος γὰρ ἐν λευκῷ τῷ ποιμνίῳ διάδηλος ἔσται· τῷ ((προατάτῳ)) δὲ εἴκασται, διὰ τὸ ἀτάραχον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="198" n="3110" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>οἰῶν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.198</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ μὲν <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> <rs type="waw">οἰῶν</rs> ὡς <rs type="waw">αἰγῶν</rs>
+                                · ὁ δὲ <persName n="urn:cite:hmt:pers.pers75">Ἡρωδιανὸς</persName>, <rs type="waw">οἴων</rs> ὡς <rs type="waw">δάδων</rs>
+                                · λέγων ὡς οὐ κλίνει τὸ μονοσύλλαβον ὁ ποιητὴς, εἰ μὴ μέτρον κωλύσει‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="200" n="3111" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>οὗτος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.200</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν βραχεῖ τὸ ἐπίγραμμα πάντα ἔχει· μετὰ ἐπαίνων δὲ ἕκαστα ἐκτίθεται,
+                                διὰ τὸ προσπεπονθέναι τῷ <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλληνικῷ</rs>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="201" n="3112" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>κραναῆς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.201</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ λυπρὰ γὰρ χωρία πέφυκεν, ἀρίστους ἄνδρας ἐκφέρεν· ᾕδει δὲ
+                                τούτους, ὡς ξενισθέντας παρ' αὐτῇ· ὃ διὰ τὸ προσκορὲς, ἐπὶ μόνου
+                                    <persName n="urn:cite:hmt:pers.pers287">Ἰδομενέως</persName>
+                                ἐσμήμανεν· ὅτε γὰρ ἐκ <placeName n="urn:cite:hmt:place.place14">Τενέδου</placeName> ἐπρεσβεύοντο οἱ περὶ <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName>, τότε
+                                    <persName n="urn:cite:hmt:pers.pers551">Ἀντήνωρ</persName> ὁ
+                                    ((<persName n="">Ἱκετάονος</persName>)) ὑπεδέξατο αὐτοὺς· καὶ
+                                δολοφονεῖσθαι μέλλοντας ἔσωσεν· ὅθεν μετὰ τὴν τῆς <placeName n="urn:cite:hmt:place.place15">Τροίας</placeName> ἅλωσιν
+                                    <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName>
+                                ἐκέλευσε, φείσασθαι τῶν οἰκείων <persName n="urn:cite:hmt:pers.pers551">Ἀντήνορος</persName>· παρδάλεως
+                                δορὰν ἐξάψας πρὸ τῶν οἴκων αὐτοῦ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="202" n="3113" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>παντοίους</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.202</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰσὶ γὰρ καὶ καλοὶ καὶ κακοὶ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="203" n="3114" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>Ἀντήνωρ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.203</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ ἄρχων τὸν ἄρχοντα καὶ ὁ ῥήτωρ τὸν ῥήτορα ἐπαινεῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="206" n="3115" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>ἀρηϊφίλῳ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.206</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐ ῥιψοκινδύνως <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName> ἔρχεται, ἀλλ' ἤν πως αἰδεσθῶσιν ὡς 
+                                παθόντα· εἰ γὰρ <persName n="urn:cite:hmt:pers.pers94">Ἑλένης</persName> χάριν ὁ πόλεμος γέγονε, πόσω μᾶλλον
+                                εἰ <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName> ἀνῄρητο· <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName>
+                                δὲ ὡς συνετὸς σκοπῆσαι τὰ βαρβάρων ὅπως ῥώμης ἔχοιεν· ἀλλ' οὐχὶ <persName n="urn:cite:hmt:pers.pers117">Νεστωρ</persName>
+                                · οὐ γὰρ μόνον συνετοὺς ἀλλὰ καὶ δραστηρίους πρεσβεύεσθαι δεῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="213" n="3116" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>ἐπιτροχάδην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.213</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρατρέχων τὰ πολλὰ καὶ τὰ καίρια μόνον λέγων· οἱ γὰρ νέοι
+                                ἀπειρότεροι τοῦ τὰ πλείονα καὶ συνφέροντα λέγειν ὄντες, τὸ ἀνθηρὸν
+                                μόνον καὶ χάριεν διώκουσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="215" n="3117" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>ἀφαμαρτοεπὴς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.215</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ <rs type="waw">ει</rs>· τινὲς εἰς τὸ ἀφαμαρτοεπὴς στίζουσι τελείαν. εἶτα καὶ περισπῶσι τὸν <rs type="waw">η</rs>
+                                μετ' ἐπιτάσεως, καίτοι νεώτερος ἦν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="216" n="3118" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἀναΐξειεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.216</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ πρόθυμον δηλοῖ τῆς ἐγέρσεως πρὸς κατάπληξιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="217" n="3119" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>ὑπαι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.217</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι οὐκ ἀσχημονεῖν ἔν τινι δημηγοροῦντα δεῖν, ἀλλὰ καὶ τὴν στάσιν τῶν ἐρούντων μεμελετημένην εἶναι· οἶδε γὰρ 
+                                καὶ αὐτὴ πολλάκις ὑπόνοιαν κινεῖν· ῥητορικὴ οὖν ἡ στάσις αὐτοῦ· ἀφροσύνην δὲ σχηματίζεται, πρὸς τὸ μὴ ὑπονοεῖσθαι περι τοῖς
+                                ὁρῶσιν· οἷα εἰκὸς <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> τὰς οἰκείας βλάβας ἐκθεμένου, τεταράχθαι
+                                τὴν ἀγορὰν· τῇ εἰς ἑαυτὸν οὖν ἐπιστροφῇ, καταρτίζει τοὺς ὁρῶντας‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="219" n="3120" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>ἀΐδρει</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.219</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπὸ τοῦ ἄϊδρις· ἀλλὰ διὰ τὴν εὐφωνίαν τὸ δεύτερον <rs type="waw">ϊ</rs> μετατέθειται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="220" n="3121" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>ζάκοτον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.220</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τὸ ὑποδρὰξ ὁρᾶν· ἄφρονα δὲ διὰ τὸ ἀκίνητον τοῦ σκήπτου‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="221" n="3122" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>ὅτε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.221</p>
+                        </div>
+                        <div type="comment">
+                            <p>τρεῖς οἶδε τόπους ῥητορείας <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName>· τὸν βραχὺν καὶ
+                                ἀπολελυμένον καὶ ἱκανον αὐτὰ τὰ ἀναγκαῖα παραστῆσαι, ὃν λυσίας ἐξήλωσε· τὸν ὑψηλὸν καὶ καταπληκτικὸν καὶ μέγιστον
+                                καὶ ἐνθυμημάτων μετὸν, καὶ τούτων ἀθρόως ἐκφερομένων· ὡς νῦν, ὃν <persName n="urn:cite:hmt:pers.pers256">Δημοσθένης</persName>
+                                · τὸν πιθανὸν καὶ τεχνικὸν καὶ πολλῶν πλήρη δογμάτων· καὶ τὸ γυωμικὸν καὶ σαφὲς ἐπιλεγόμενον, ὃν ἰσοκράτης‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="221" n="3123" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="20">Κ</num></add>μεγάλην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.221</p>
+                        </div>
+                        <div type="comment">
+                            <p>μεγάλην δϊὰ τὸν θόρυβον τῶν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs>. ἢ δϊὰ τὴν κατάπληξιν τῶν
+                                ἀδικιῶν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="222" n="3124" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="21">ΚΑ</num></add>νιφάδεσσιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.222</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ εἰκὼν ἀφορᾷ πρὸς τὸ τάχος τῆς ῥητορείας· διὰ μὲν γὰρ τοῦ ἔπεα πλήθους, δηλοῖ τὸ πυκνὸν τοῦ λόγου· διὰ δὲ τοῦ
+                                λευκοῦ, τὸ σαφὲς· τῆς νιφάδος, τὴν φρίκην τῶν ἀκουόντων· καὶ αἱ μὲν χειμέριαι ἁπαλαί· αἱ δὲ ἐαριναὶ, ἐκκόπτουσι τοὺς
+                                καρπούς‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="224" n="3125" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="22">ΚΒ</num></add>ἀγασσάμεθ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.224</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐχ' οὕτως ἐπὶ τῇ μορφῇ τότε ἐθαυμάσαμεν, ὅσον ἐπὶ τῳ λόγῳ ἐξεπλάγημεν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="225" n="3126" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="23">ΚΓ</num></add>Αἴαντα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.225</p>
+                        </div>
+                        <div type="comment">
+                            <p>μετὰ τὴν τῆς φρονήσεως τάξιν· τὴν τῆς ἀνδρίας τέταχεν· <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName>
+                                μεν γὰρ φρονιμώτερος, <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δὲ ((<choice><abbr>ἀνδρειότε</abbr><expan>ἀνδρειότερος</expan></choice>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="229" n="3127" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="24">ΚΔ</num></add>πελώριος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.229</p>
+                        </div>
+                        <div type="comment">
+                            <p>πελώριος οὗτος, διὰ τὸν ἕτερον <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName> τὸν 
+                                <persName n="urn:cite:hmt:pers.pers150">Ὀϊλέως</persName>· ὅρα δὲ πῶς ἐπὶ μὲν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> <q>μέγα ἕρκος</q> φησὶν· ἐνταῦθα δὲ μόνον ἕρκος ἁπλῶς‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="230" n="3128" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="25">ΚΕ</num></add>κρήτεσσι θεὸς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.230</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῷ κάλλει. τὸ δὲ <rs type="ethnic" n="urn:cite:hmt:place.place21">Κρητεσσι</rs> προσέθηκεν, ὅπως φανῆ μὴ
+                                δελεασθεῖσα· ἢ τοῖς τρόποις αὐτὸν ἐχαρακτήρισεν, ὡς εἰδυῖα τῇ συνεχεῖ ξενίᾳ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="235" n="3129" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>γνοίην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.235</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ <rs type="waw">γινώσκω</rs> καὶ <rs type="waw">μυθοῦμαι</rs>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="236" n="3130" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>δύναμαι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.236</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο φησὶ ὡς πάντη μὲν ἐκπετάσασα τὴν θέαν, οὐδαμῆ δὲ ἰδοῦσα· πῶς δὲ οὐκ ἐρωτηθεῖσα προβάλλεται περὶ τῶν
+                                ἀδελφῶν· δῆλον οὖν ὅτι προοικονομεῖ ὁ ποιητὴς, βουλόμενος εἰπεῖν τὴν ἀφάνειαν αὐτῶν· ἠ γνόει δὲ τὰ περὶ αὐτῶν· ἴσως
+                                μὴ συγχωρουμένη συντυγχάνειν τοῖς αἰχμαλώτοις‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="238" n="3131" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>αὐτοκασιγνήτω</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.238</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο καὶ τοῖς πρώτοις δύναται συνάπτεσθαι· δηλοῖ δὲ τοὺς δμουμητρίους ἀδελφούς· ἀλλὰ καὶ τοὺς ὁμοπατρίους
+                                οὕτως καλεῖ, ὡς <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName> καὶ <persName n="urn:cite:hmt:pers.pers243">Τεῦκρον</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="239" n="3132" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>οὐχ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.239</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ <persName n="urn:cite:hmt:pers.pers76">Νικάνωρ</persName> ἄμφω ὀξύνει ὡς διαζευκτικοὺς· ὁ δὲ 
+                                <persName n="urn:cite:hmt:pers.pers75">Ἡρωδιανὸς</persName> τὸν δεύτερον περισπᾷ· ὡς διαπορητικοὺς ἄμφω
+                                δεχόμενος‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="240" n="3133" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>δεῦρο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.240</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐκ ἔστιν <rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικὸν</rs>τὸ δεῦρο· οὐδέποτε γὰρ μακρᾶς προκειμένης
+                                ποιαύτην ἔκτασιν ποιοῦνται ἀλλ' <rs type="ethnic" n="urn:cite:hmt:place.place79">Ἰωνικόν</rs>· τὴν δὲ πρόθεσιν οἴδαμεν μὲν
+                                ἀναστρέφεσθαι καὶ τῷ κυριωτέρῳ συντάττεσθαι· ὅμως ἀδιαφόρως συντέτακται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="242" n="3134" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>δειδιότες</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.242</p>
+                        </div>
+                        <div type="comment">
+                            <p>στυγοῦντες· εἰς δὲ τὸ ὀνείδεα στικτέον· ἐπειδὲ τὸ πολλὰ συναλειφόμενον, οὐ δέχεται στιγμὴν ἐν μετάξύτητι· ((τὸ δὲ πόλλ'
+                                ἅ μοι ἐστὶν, ἀντὶ τοῦ ἃν ἐμοῦ χάριν ἐστίν))· ἑαυτῆς δὲ κατηγοροῦσα, εἰς ἔλεον ἐπισπᾶται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="245" n="3135" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>θεῶν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.245</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐδύνατο τὸ θεῶν καὶ τοῖς πρώτοις συντάσσεσθαι, εἰ μὴ ὅτι ἐν· τοῖς
+                                ἑξῆς φησὶν· <cit>
+                                    <q>ὅρκια πιστὰ θεῶν σύναγον</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.269</ref>
+                                </cit>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="246" n="3136" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>οἶνον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.246</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐτυμολογεῖται περι τὴν ὄνησιν· ὡς καὶ τὸ <q>αὐτὸς ὀνήσεαι</q>· ἢ παρὰ τὴν οἴησιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="250" n="3137" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>ὄρσεο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.250</p>
+                        </div>
+                        <div type="comment">
+                            <p>μετὰ τὴν προσαγόρευσιν ἡ στιγμὴ· τὸ δὲ ὄρσεο, ἀπὸ τοῦ ὄρσω ἐνεστῶτος ἐστίν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="254" n="3138" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>μακρῇς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.254</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο εἰς ἀγωνίαν ἄγει τὸν γέροντα· τὰ δὲ ὑπο <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> 
+                                βλασφημηθέντα σιωπῶσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="258" n="3139" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>ἱππόβοτον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.258</p>
+                        </div>
+                        <div type="comment">
+                            <p><placeName n="urn:cite:hmt:place.place114">Ἄργος</placeName> καὶ τὴν πόλιν καὶ τὴν <placeName n="urn:cite:hmt:place.place36">Πελοπόννησον</placeName>
+                                καὶ τὴν <placeName n="urn:cite:hmt:place.place2">Θεσσαλίαν</placeName> καλεῖ· ἄμεινον δὲ νῦν <placeName n="urn:cite:hmt:place.place114">Ἄργος</placeName>
+                                τὴν <placeName n="urn:cite:hmt:place.place2">Θεσσαλίαν</placeName> λέγειν· ((<placeName n="urn:cite:hmt:place.place96">Ἀχαιΐδα</placeName>
+                                δὲ, πᾶσαν <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλληνίδα</rs>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="259" n="3140" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>γέρων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.259</p>
+                        </div>
+                        <div type="comment">
+                            <p>φυσικὴ γὰρ ἡ φιλοπαιδία· ὁ δὲ <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> ἐχάρη μέγα, τέλος οἷον
+                                οὖν ἐπιζητῶν τοῦ πολέμου‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="261" n="3141" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>ἡνία</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.261</p>
+                        </div>
+                        <div type="comment">
+                            <p>προοικονομεῖ τὴν ἐν τῷ <rs type="waw">ω</rs> ἡνιοχείαν· ἄγει δὲ τὸν <persName n="urn:cite:hmt:pers.pers551">Ἀντήνορα</persName>
+                                , ὡς συνετὸν καὶ πρώην ξένον <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλλήνων</rs>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="270" n="3142" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>ἔχευαν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.270</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τοῦ <rs type="waw">ο</rs> τὸ ἔχευον· ἵν' ἦ ἀναλογοῦν τῷ μίσγον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="271" n="3143" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἐρυσσάμενος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.271</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀξίοχρεως αὐτουργῶν ὁ βασιλεὺς, ἢ ὡς ἀγνοόυντων τῶν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs>
+                                τὸν ἐν θυσίαις νόμον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="273" n="3144" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>ἀρνῶν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.273</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὶνες <q>ἀρνέων</q> ἵν' ἦ ὡς <cit>
+                                    <q>ἱππέων· ὁπλέων</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:11.536</ref>
+                                </cit>· σημειωτέον δὲ ὅτι τῶν ἐναζομένων οὐκ ἐπιβάλλουσι τὰς τρίχας
+                                πυρὶ, ὡς οὐδὲ τοῦ κάπρου‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="276" n="3145" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>Ἴδηθεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.276</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐξ <placeName n="urn:cite:hmt:place.place89">Ἴδης</placeName>
+                                ἐποπτέυων· τὸν ἐπιχώριον δὲ καλεῖ ἐκπολεμῶν αὐτοῖς αὐτὸν, εἰ
+                                παραβαῖεν τοὺς ὅρκους· καθ' ἑκάστην δὲ προσαγόρευσιν <choice>
+                                    <abbr>Δ¨σταλτέον</abbr>
+                                    <expan>δϊασταλτέον</expan>
+                                </choice>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="278" n="3146" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>ὑπένερθε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.278</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers201">Πλούτωνα</persName> καὶ <persName n="urn:cite:hmt:pers.pers262">Περσεφόνην</persName>
+                                φησὶν· ἐκφοβῶν οὖν, πρῶτον μὲν τοὺς <choice><abbr>οὐνίους</abbr><expan>οὐρανίους</expan></choice>. ἔπειτα τοὺς ὑπογείους
+                                καλεῖ· δεισιδαιμονεῖν δὲ διδάσκει· μὴ δὲ μετα θάνατον ἀπαλλάσσεσθαι τοὺς ἁμαρτάνοντας λέγων‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="279" n="3147" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="0">((symbol))</num></add>ὀμόσση</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.279</p>
+                        </div>
+                        <div type="comment">
+                            <p>τελεία εἰς τὸ ὀμόσση‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="280" n="3148" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>ἐστέ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.280</p>
+                        </div>
+                        <div type="comment">
+                            <p>βαρυντέον τὸ ἔστε καὶ προστακτικὸν ἐκδεκτέον· τὸ δὲ φυλάσσετε, <choice><abbr>ἀντ`</abbr><expan>ἀντὶ</expan></choice> τοῦ
+                                πιστώσασθε τὰ ἐπὶ τῇ πίστει γινόμενα ὅρκια‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="281" n="3149" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="20">Κ</num></add>καταπέφην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.281</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀνεμεσήτως προέταξε τὴν τοῦ ἀδελφοῦ ἧτταν· ὅλῃ δὲ τῇ παραβάσει τῶν
+                                συνθηκῶν ἀπολογίαν δίδωσι προσθεὶς τὸ κτείνη· δικαίαν γὰρ ἀπολογίαν
+                                παρέχει <persName n="urn:cite:hmt:pers.pers220">Τρωσὶ</persName>
+                                δυναμένοις λέγειν, ὅτι οὐκ ἐγένετο τὸ ὁρισθὲν· οὐ γὰρ ἀπέκτεινε τὸν
+                                    <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρον</persName> ὁ
+                                    <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName> ·
+                                δύνανται δὲ καὶ οἱ <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνες</rs> τὴν πρόκλησιν τοῦ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> προβαλλόμενοι· <cit>
+                                    <q>ὁπότερος δέ κε νικήσει κρείσσων τὲ γένηται</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.92</ref>
+                                </cit>, εὐλόγως ἀπαιτεῖν τὰς συνθήκας· ἰσχυρότερα δὲ τὰ τῶν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs>· ὅτι
+                                μάλιστα δεῖ ὁρᾶν τὰ ἐπὶ τοῖς ὅρκοις ὁριζόμενα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="286" n="3150" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>Ἀργείοις</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.286</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔθος γὰρ τοῖς παρακαθημένοις αἰτεῖν καὶ πρόστιμα· καὶ οὐ δίκαιον τοὺς
+                                προκατάρξαντας ἐπίσης ἀπαλλάττεσθαι· ὁ μὲν οὖν <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName> σπέυδων
+                                ἀπολαβεῖν τὸ γύναιον, οὐδὲν περὶ τούτων φησὶ· ὁ δὲ` μεγαλοφυῶς ὁρίζει, τὸ ἐπιζήμιον· ἐπεὶ δὲ οὐδεὶς ἐμνήσθη τοῦ κεφαλαίου,
+                                ἐπιμένει τῷ λόγῳ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="290" n="3151" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>αὐτὰρ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.290</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἶδε γὰρ εὔνους τοὺς θεοὺς εἰ παραβαῖεν· ἁπλοϊκὸν δὲ τὸ ἦθος τῶν ἡρώων, εἴ γε οὐ μεσεγγυᾶται ἡ <persName n="urn:cite:hmt:pers.pers94">Ἑλένη</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="296" n="3152" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>ἔκχεον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.296</p>
+                        </div>
+                        <div type="comment">
+                            <p>προειδὼς τὸ αὐτῶν ἀτελὲς, οὐκ εἰπεν ἔσπενδον ἀλλ' ἔχεον· αἰειγένετῃσι δὲ, τοῖς ἀΐδιον ἔχουσι τὴν γενεὰν· ἤτοι ἀεὶ
+                                οὖσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="300" n="3153" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>σφ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.300</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ αὐτῶν· ὠς τὸ <q>ἡμῖν δ' αὖτε κατεκλάσθη φίλον ἦτορ·
+                                    δεισάντων φθόγγον τε βαρύν</q>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="302" n="3154" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>πώ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.302</p>
+                        </div>
+                        <div type="comment">
+                            <p>κεφαλαιωδῶς τὴν τῶν μελλόντων προαπήγγειλεν ἐπίδειξιν· διὰ δὲ τοῦ <rs type="waw">πω</rs>, ἐλπίδα πάλιν ἀπολείπεται
+                                τῷ φιλέλληνι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="305" n="3155" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>εἶμι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.305</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπεὶ σώζειν <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρον</persName> μέλλει, πιθανῶς ὑπεξάγει τὸν <choice>
+                                    <abbr>πρά</abbr>
+                                    <expan>πατέρα</expan>
+                                </choice>· <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> δὲ αὐτόπτην ἐᾶ ἐπὶ τῷ τὸν οἶκτον αὔξειν·
+                                παρὼν γὰρ ἐνταυθα ἔδωκεν ἂν τὴν <persName n="urn:cite:hmt:pers.pers94">Ἑλένην</persName>, ὡς τοὺς ὅρκους
+                                ἐμπιστευθείς· εἰ δὲ καὶ πᾶσιν ὡς κὴρ ἀπέχθεται <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName>, ἀλλ'
+                                ὁ <choice><abbr>πτρ`</abbr><expan>πατὴρ</expan></choice> τὸ φυσικὸν οὐ δύναται μὴ σώζειν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="308" n="3156" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>που</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.308</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἴσως ὁ <rs type="waw">μὲν που</rs>, ἀντὶ τοῦ <rs type="waw">μέντοι</rs>· <rs type="waw">ὅς</rs> ἐστιν ἀντὶ τοῦ 
+                                <rs type="waw">δε</rs>· ἐγὼ μὲν ἄπειμι· <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δὲ τὸ τέλος οἶδε, καὶ
+                                τὴν τύχην. οὐκ ἀποκόπτει δὲ τοῦ ὑιοῦ τὴν ἐλπίδα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="310" n="3157" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>ῥά</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.310</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ ἐν ὅρκοις σφαζόμενα· οἰ μὲν ἐγχώριοι ἔκρυπτον τῇ γῇ· οἱ δὲ ξένοι τῇ θαλάσσῃ· ἢ δείξων ἀποφέρει τοῖς ἐν ἄστει πιστωσόμενος
+                                κἀκείνους· ἢ ὡς ἀγοοῦντας διδάξων‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="314" n="3158" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>δῖος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.314</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑπηρετικὸν γὰρ τοῦτο· τὸ δὲ τῶν σπονδῶν βασιλικόν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="315" n="3159" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>διεμέτρεον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.315</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ πῶς ἐπὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> ἔνθα <persName n="urn:cite:hmt:pers.pers127">Ἄιαντι</persName> μονομαχεῖ, μὴ διαμετρεῖται ὁ τόπος· ἢ ὅτι
+                                ἐκεῖνοι μὲν περὶ τῆς ἀλλήλων σφαγῆς διαμιλλῶνται· ἐνθάδε δὲ περὶ τῆς
+                                κοινῆς ἐλπίδος ἐστὶν ὁ πόλεμος· διὸ οἵ τε ὅρκοι καὶ ἡ γύμνωσις τ6ων
+                                στρατῶν· μή πως τίς ἔνοπλος ὢν, προσαμύνει τῷ στρατηγῷ· ἢ ὅτι
+                                διαμέτρησις, καρτερικωτέρους ἐργάζεται τοὺς πολεμοῦντας· ἄλλως τε
+                                δὲ· δεδίασι μὴ τοξότης <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName> ὢν δραπετεύση τὴν συμβολὴν· καὶ τὴν
+                                τοξείαν ἀντεπεισάξη <persName n="urn:cite:hmt:pers.pers119">Μενελάῳ</persName>· σκόπει γὰρ ὅτι καὶ αὐτοῦ μὲν ἀφανισθέντος,
+                                οὐκ ἴσασι μὴ καὶ αὐτὸς εἴη ὁ τοῦτο δράσας· φησὶ γὰρ <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName>
+                                <cit>
+                                    <q>ὅν τις ὀϊστεύσας ἔβαλε τόξων εὖ εἰδὼς, <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> ἢ <rs type="ethnic" n="urn:cite:hmt:place.place75">Λυκίων</rs></q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:4.196-7</ref>
+                                </cit>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="316" n="3160" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>χαλκήρεϊ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.316</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ διὰ τοῦ ήρης παραγωγὴ· βαρύνεται· εἰ μὴ ἀπὸ τοῦ ἀρῶ διὰ τοῦ <rs type="waw">α</rs> γένεται ἡ ((<choice>
+                                    <abbr>πγωγὴ</abbr>
+                                    <expan>παραγωγὴ</expan>
+                                </choice>)). ὡς τὸ <q>ἔχει δ' ἄλοχον θυμαρέα</q>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="318" n="3161" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>ἠρήσαντο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.318</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐαν εἰς τὸ ἠρήσαντο στίξωμεν φησὶ ὁ <persName n="urn:cite:hmt:pers.pers76">Νικάνωρ</persName>, ὡς ἑτέροις ἔσονται
+                                θεοῖς ἀνατείνοντες τὰς χεῖρας· διὸ στίζει εἰς τὸ θεοῖσι· τὸ δὲ <rs type="waw">δε</rs>, ἀντὶ τοῦ <rs type="waw">και</rs>
+                                φησιν· ἐγὼ δὲ· ἰδέ φημι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="323" n="3162" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>γενέσθαι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.323</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπὸ κοινοῦ τὸ <rs type="waw">δὸς</rs> ἐπ' ἀμφοτέροις τέτακται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="324" n="3163" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>Ἕκτωρ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.324</p>
+                        </div>
+                        <div type="comment">
+                            <p>πανταχόθεν τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶας</rs> ἀπροφασίστους ποιεῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="325" n="3164" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἂψ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.325</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο μὲν τὰ ἀπὸ τῆς τύχης, ὅτι καὶ τοῖς ἥσσοσι προσγίνεται ἡ τύχη· τοῦτο δὲ καὶ τὰ ἀπ' ἀρετῆς περιποιεῖ· δηλοῖ δὲ διὰ τούτων, 
+                                ὡς κενὰ τὰ τῆς τύχης πρὸς τοὺς ἀνεπιτηδείους‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="326" n="3165" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>ἑκάστῳ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.326</p>
+                        </div>
+                        <div type="comment">
+                            <p>μόνως κατὰ γενικὴν τὸ <rs type="waw">ἑκάστῳ</rs>, ἀντὶ τοῦ <rs type="waw">ἑκάστου</rs> ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="327" n="3166" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>ἔκειτο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.327</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ ἔκειντο, οὐκ ἔστι κοινὸν ἐπὶ τῶν ἵππων· ἀλλὰ προσυπακούομεν τὸ
+                                ἕστασαν· ὡς ἐπὶ τοῦ <cit>
+                                    <q>ποῦ δέ οἱ ἔντεα κεῖται ἀρήϊα· ποῦ δέ οἱ ἵπποι</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:10.407</ref>
+                                </cit>· ἢ ὡς ἰσοδυναμοῦν τοῦτο τῷ ἕστασαν· ἐφίστασθαι γοῦν τὴν στήλην φαμὲν, ἀντὶ τοῦ ἐπικεῖσθαι· ἢ καὶ ἐπὶ ἀργῶν τῶν 
+                                ἵππων, τὸ ἔκειντο ἀρμόδιον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="328" n="3167" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>ὤμοισιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.328</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὡς ἰδία μέλλοντες κινδύνευειν, ἀσφαλέστερον ὁπλίζονται· ἢ ὡς μέλλοντες κάμνειν προανεκτήσαντο ἑαυτοὺς τῇ τῶν ὅπλων
+                                ἀνέσει· κοσμεῖ δὲ αὐτὸν τῷ γάμῳ τέως ὡς πρῶτος δὲ λαχὼν, πρώτως ὁπλίζεται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="331" n="3168" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>ἐπισφυρίοις</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.331</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁπλισμὸν διδάσκει διὰ τούτου· ἐπισφύρια δέ εἰσιν οἱ γλουτοὶ· ἤτοι τὰ τῶν σφυρῶν σφαιρώματα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="333" n="3169" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>ἥρμοσε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.333</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῖς γὰρ ὁμογενέσι καὶ ὀμαοτρόποις ὅμοιαι τῶν σωμάτων αἱ κατασκεύαι· κωμωδεῖται δὲ ὡς οὐκ εἰδὼς τὸ συστάδην· ἄλλως 
+                                τε καὶ δειλός· τοῦ γὰρ λυκαόνος ἔρριψε τὴν παντευχίαν μὴ φέρων τὸν ἱδῶτα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="335" n="3170" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>ἔπειτα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.335</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπὸ κοινοῦ τὸ ὤμοισι βάλετο ἀναγκαίως διὰ τοὺς τελαμῶνας· βραχὺ δὲ διασταλτέον εἰς τὸ χαλκεον· ἔστι δὲ καὶ τοῖς ἑξῆς 
+                                κοινόν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="336" n="3171" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>ἔθηκεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.336</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ περιέθηκεν <rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικῶς</rs>· πολλὴν δὲ καὶ ὁ λόφος νεύων ἔχει
+                                τὴν ἔμφασιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="342" n="3172" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>θάμβος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.342</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐκ παντὸς τό που καὶ προσώπου τὴν ἔμφασιν κινεῖ· τὸ δὲ ἄδηλον καραδοκοῦντες ἐκπλήσσονται· κοινὸς γὰρ <persName n="urn:cite:hmt:pers.pers83">Ἐνυάλιος</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="346" n="3173" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>δολιχόσκιον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.346</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ μὲ`ν παρὰ τὸ κίειν· οἱδὲ` παρα τὸ σκιά· οὐκ ἐχει δὲ παρρησίαν
+                                    ((<persName n="">Ἀλέξανδρος</persName>)) εὐχῆς, ἄδικος ὤν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="348" n="3174" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>χαλκὸν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.348</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> μὲν, <rs type="waw">χαλκόν</rs>· ἄμεινον δὲ <rs type="waw">χαλκός</rs>·
+                                καὶ γὰρ ὕστερον φησὶ· ὁ δὲ` δεύτερος ὤρνυτο χαλκῷ· ἀντὶ τοῦ δόρατι·
+                                καὶ τὸ μὲν τῆς τυχης· ἔτυχε· τὸ δὲ τῆς ἰσχύος ἀπώλεσεν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="350" n="3175" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>ἐπευξάμενος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.350</p>
+                        </div>
+                        <div type="comment">
+                            <p><rs type="ethnic" n="urn:cite:hmt:place.place3">Ἑλληνικὸν</rs> τὸ μὴ πᾶν ἐπιτρέπειν τῇ ῥώμῃ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="352" n="3176" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>δῖον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.352</p>
+                        </div>
+                        <div type="comment">
+                            <p>τινὲς τὸ δῖον, τῷ <cit>
+                                    <q>ἐμὲ</q>
+                                    <ref>urn:cts:greekLit:tlg0012.tlg001:msB:3.351</ref>
+                                </cit>συνάπουσιν· ἠ ἐφεθίσαι κατ' αὐτοῦ βούλεται τὸν θεὸν, ὡς
+                                αἰσχύναντος τὸ ἀπὸ <persName n="urn:cite:hmt:pers.pers586">Δαρδάνου</persName> γένος‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="354" n="3177" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>ξεινοδόκον</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.354</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τοῦ <rs type="waw">κ</rs> ὡς πανδοκεῖον· ὁ δεχόμενος δὲ ἐνεργεῖ οὐ πάσχει διὸ παροξύνεται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="358" n="3178" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>ἠρήρειστο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.358</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ βίαιον τῆς πληγῆς παραδηλοῖ, τῷ τραχεῖ τούτω ῥήματι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="363" n="3179" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>διατρυφθὲν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.363</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ γὰρ ὑπερβαλλουσαν ἀλκὴν ἔχοντα, μᾶλλον εὐθρυπτα‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="364" n="3180" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>ᾤμωξεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.364</p>
+                        </div>
+                        <div type="comment">
+                            <p>φιλεγκλήμονες γὰρ καὶ ἐλεγκτικοὶ οἱ ἀτυχεῖς‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="365" n="3181" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>ὀλοώτερος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.365</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὀλέθρων αἰτιώτερος· ἀναιρουμένου γὰρ ((<persName n="">Ἀλεξάνδρου</persName>)), τὰ τῆς μάχης ἐλύετο‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="366" n="3182" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>ἐφάμην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.366</p>
+                        </div>
+                        <div type="comment">
+                            <p><rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικῶς</rs> πέφρασται· ὡς τὸ ἐγραψάμην φίλιππον κλοπῆς παρα
+                                βραχὺ, εἰ μὴ ἐσφάλην‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="369" n="3183" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>ἐπαΐξας</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.369</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἴδωλον ((<persName n="">Ἀλεξάνδρου</persName>)) καταλιμπάνει τῇ ὑποθέσει, τριχῇ φονεύσας αὐτόν· δόρατι· ξίφει,
+                                αἰμαλωσίᾳ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="370" n="3184" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>ἕλκε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.370</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τοῦ ῥήματος τούτου, παρέτεινεν αὐτοῦ τὴν αἰσχύνην· οὐ φονεύει δὲ αὐτὸν τῷ αὐτοῦ ξίφει· ἢ ὑπὸ τοῦ καιροῦ
+                                ἢ ὑπὸ τῆς <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτης</persName> σφαλλόμενος· ἢ καὶ τοῖς ὅπλοις ἀπογνούς·
+                                ἢ καὶ ὅτι ἴσον θανάτου ἦν τὸ ὑπεκστῆναι τοῦ μετρητοῦ· ἢ ζῶντα αὐτὸν ἑλεῖν βουλόμενος, ὅπερ ἦν μεῖζον· οὕτω γὰρ ἂν ἀξίως
+                                ἐτιμωρήσατο αὐτὸν, ἢ συντόμως ἀνελών‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="371" n="3185" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>ἁπαλὴν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.371</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὡς ἐπὶ γυναικὸς ἁπαλῆς εἶπεν ὀνειδίζων, οὐκ εἰωθυίης κόρυθα φορεῖν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="374" n="3186" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>Ἀφροδίτη</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.374</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐ βοηθεῖ <placeName n="urn:cite:hmt:place.place1">Ἀθηνᾶ</placeName> <persName n="urn:cite:hmt:pers.pers119">Μενελάῳ</persName>
+                                ὅπως ἡ <placeName n="urn:cite:hmt:place.place6">Ἴλιος</placeName> πορθηθείη <persName n="urn:cite:hmt:pers.pers129">Ἀλεξάνδρου</persName>
+                                σωζομένου· <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName> δὲ <persName n="urn:cite:hmt:pers.pers129">Ἀλεξάνδρῳ</persName>
+                                βοηθεῖ, ἐπεὶ θεράπων ἐστὶ τοῦ αὐτῆς κεστοῦ· συν ἀπάγει δὲ αὐτὸν ὅπως μὴ ((ἀπαγχονισθείη))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="375" n="3187" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>ῥῆξεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.375</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐκ ἔλυσε· τάχους γὰρ ἦν χρεία· οὐ σώζεται δὲ σὺν τῇ κόρυθι· ὅπως κἂν τὸ κάλλιστον τῶν λαφύρων, παρὰ τοῖς πολεμίοις
+                                καταλειφθῆ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="377" n="3188" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="20">Κ</num></add>ἥρως</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.377</p>
+                        </div>
+                        <div type="comment">
+                            <p>εὔκαιρον ἐπὶ τῇ νίκῃ τὸ ἥρως· καίτοι δυνάμενον ((<persName n="">Ἀτρείδης</persName>)) κεῖσθαι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="378" n="3189" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="21">ΚΑ</num></add>ἐπιδινήσας</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.378</p>
+                        </div>
+                        <div type="comment">
+                            <p>σύμβολον τῆς νίκης· ταυτὸν γάρ ἐστι τῷ καὶ τὴν κεφαλὴν ῥίψαι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="380" n="3190" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>χαλκείῳ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.380</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ πῶς φησὶν <cit><q>ἐκ δέ μοι ἔγχος ἠΐχθη</q><ref>urn:cts:greekLit:tlg0012:tlg001:msB:3.367-8</ref></cit>
+                                ἢ ὅτι δύο δόρατα ἐβάσταζεν· ἢ τῶν παρόντων ἥρπασεν, ἢ τῷ ἐμπεπηγότι αὐτῷ, διαχειρϊσόμενος ἐπεδίωκεν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="380" n="3191" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>ἐξήρπαξ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.380</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπϊ τοσοῦτον προάγει τὰς περιπετείας ὁ ποιητὴς, ὡς ὑπὸ μόνων ἰᾶσθαι θεῶν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="382" n="3192" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>κηώεντι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.382</p>
+                        </div>
+                        <div type="comment">
+                            <p>κοιμιστικῷ εὐώδει· καὶ τοῦτο δὲ τῆς ἀκολασίας ((<persName n="">Ἀλεξάνδρου</persName>)) τεκμήριον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="383" n="3193" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>αὐτὴ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.383</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατηγοροῦσιν ὡς προαγωγὸν εἰσάγοντος αὐτοῦ τὴν θεόν· ἀλλ' ἐπεὶ
+                                ὥρμηται γέλωτα μὲν θέσθαι τὸν <persName n="urn:cite:hmt:pers.pers129">Πάριν</persName>· ἐπαινέσθαι δὲ
+                                τὴν <persName n="urn:cite:hmt:pers.pers94">Ἑλένην</persName>· καὶ
+                                του ((μὲ`ν)) τὴν ἀκρ<del>ό</del>ασίαν· τῆς δὲ` τὸ σῶφρον ὑπ' ὄψιν
+                                ἄγειν· οὐ δύναται δὲ διεστῶτα τὰ πρόσωπα δι' ἑτέρου συμβιβάζειν,
+                                ἐπίτηδες παρέλαβε τὴν <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτην</persName>· καλεῖ δὲ αὐτὴν, ὅπως
+                                μὴ διὰ τοῦ τείχους ἀποδοθῆ· ἢ μή πως οἰόμενος αὐτὴν ἀποδεδόσθαι, διαχειρΐσηται ἑαυτόν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="284" n="3194" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>Τρωαὶ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.284</p>
+                        </div>
+                        <div type="comment">
+                            <p>πυθόμεναι γὰρ τὸ μονομάχιον ἐξῆλθον· πιθανὸν δὲ ἀποστάντος τοῦ <persName n="urn:cite:hmt:pers.pers145">Πριάμου</persName>
+                                προστεθῆναι ταῖς <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωάσιν</rs> αὐτὴν· αἷς θεωροῦσα τὴν μάχην, οὐδ' ὁτιοῦν 
+                                φθέγγεται μή πως ἐκφήνη τὸ πάθος‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="385" n="3195" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>ἐτίναξε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.385</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑπεξάγει αὐτὴν ὅπως μέλλουσα διαλέγεσθαι, μὴ ἐν μέσις διαλέγηται ταῖς <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωάσι</rs>·
+                                πρᾶγμα δὲ εὐτελὲς μεθ' ὅσης φαντασίας δηλοῖ· ὑψῶν τῷ κόμπῳ τῶν ἐπιθέτων‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="387" n="3196" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>ναιεταώσῃ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.387</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐκ τοῦ ναίων ναιέτης· καὶ ὥπερ ἀπὸ τοῦ κυνηγέτης κυνηγετῶ, οὕτως ἀπὸ τοῦ ναίετης ναιετῶ· καὶ ὤφειλε μὲν ναιεταουσῃ·
+                                ἀλλ' ἔστιν ἡ χρῆσις <rs type="ethnic" n="urn:cite:hmt:place.place79">Ἰώνων</rs>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="390" n="3197" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>Ἀλέξανδρος</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.390</p>
+                        </div>
+                        <div type="comment">
+                            <p>διχῆ αὐτὴν ἀναζωπυρεῖ ὑπομιμνήσκουσα τοῦ ἀνδρὸς· καὶ ἀπὸ τοῦ κάλλους καὶ τοῦ τόπου‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="391" n="3198" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>δινωτοῖσι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.391</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐφ' ὧν ἀκινητοῦμεν κατὰ ἀντίφρασιν· ἢ ὅτι δῖνος ὁ τόρνος· ὃ καὶ διὰ τοῦ <rs type="waw">ϊ</rs> φησὶ 
+                                <persName n="urn:cite:hmt:pers.pers75">Ἡρωδιανὸς</persName> ἐν τῷ περὶ σχημάτων· λείπει δὲ ἐνταῦθα τὸ ἐστίν·
+                                ἐπεὶ` δὲ ἡ φράσις συνήθης ἐστὶν, ἐὰν τεθῆ πλεονάζειν δοκεῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="392" n="3199" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>στίλβων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.392</p>
+                        </div>
+                        <div type="comment">
+                            <p>ταῦτα φησὶ ἵνα μὴ μυσαχθῆ αὐτὸν διὰ τὸ λύθρον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="394" n="3200" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>χοροῖο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.394</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἠϊθέων γὰρ τὸ χορεύειν· ὃ καὶ <persName n="urn:cite:hmt:pers.pers145">Πρίαμος</persName> ὀνειδίζει τοὺς υἱοὺς
+                                χοροιτυπίῃσιν ἄριστοι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="396" n="3201" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>ἐνόησε</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.396</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ μὴν γραῒ παρεικασθεῖσα ἦν· ἀλλ' ἔθος τοῖς ἡμιθέοις τοὺς θεοὺς ἐπιγινώσκειν ὡς <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName>
+                                τὸν <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνα</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="397" n="3202" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>ἱμερόεντα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.397</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐδὲν ἄτοπον γυμνὴν φαίνεσθαι τὴν θεόν· <persName n="urn:cite:hmt:pers.pers94">Ἑλένη</persName> γὰρ ἦλθε
+                                γνωρισθῆναι κρύπτεται δὲ ταῖς <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῳάσιν</rs>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="399" n="3203" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>δαιμονίη</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.399</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρρησιάζεται ἡ <persName n="urn:cite:hmt:pers.pers94">Ἑλένη</persName>, ὡς πρὸς ἀδελφήν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="400" n="3204" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>πή</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.400</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸν <rs type="waw">η</rs> περισπαστέον τὸ δὲ <rs type="waw">πη</rs> ὀξυντέον διὰ τὸ <rs type="waw">με</rs>·
+                                οὐ γάρ ἐστι νῦν ἐρωτηματικὸν τὸ <rs type="waw">πη</rs>, ἀλλ' ἀόριστον‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="400" n="3205" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>προτέρω</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.400</p>
+                        </div>
+                        <div type="comment">
+                            <p>δίχα τοῦ <rs type="waw">ϊ</rs> τὸ προτέρω· ἀπὸ τοῦ προσωτέρω γάρ ἐστιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="402" n="3206" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>κεῖθι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.402</p>
+                        </div>
+                        <div type="comment">
+                            <p>κομματικὸς ὁ λόγος τῇ δυσχεραινούσῃ διανοίᾳ· θέλει δὲ ἐπεῖν· οὔ τι με λανθάνεις ἐφ' ᾧ ἦλθες‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="411" n="3207" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>προσυνέσουσα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.411</p>
+                        </div>
+                        <div type="comment">
+                            <p>εὐτρεπίζουσα ὡς τὸ <q>λέχος πόρσυνε καὶ εὐνήν</q>· τὸ δὲ ἑξῆς οὕτως· <q>οὐκ εἶμι ἐκεῖσε</q> πορσυνέουσα τὸ ἐκείνου λέχος·
+                                τὸ δὲ νεμεσσητὸν διὰ μέσου· μωμήσονται γάρ με φησὶ αἱ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωάδες</rs>
+                                ὡς δευτέρας μάχης οὖσαν αἰτίαν· ἔδει γὰρ αὐτὴν τῷ νικήσαντι ἕπεσθαι‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="414" n="3208" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="19">ΙΘ</num></add>μεθείω</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.414</p>
+                        </div>
+                        <div type="comment">
+                            <p>μετωνυνικῶς ἀντὶ τοῦ ἐαθῆναι ποιήσω καὶ μισηθῆναι· ὡς καὶ φιληθῆναι ἐποίησα· τὸ ἀνεξίκακον δὲ τῆς θείας ἐδήλωσε
+                                φύσεως· ((<q>θεὸς γὰρ ἐπὶ σμικροῖς οὐ θερμαίνεται. ἀλλ' ὡς λέβης μείζονος δεῖται πυρός</q>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="416" n="3209" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="20">Κ</num></add>ἀμφοτέρων</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.416</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ τῶν ἐναντίων γὰρ· ἔχουσιν ἐξουσίαν οἱ θεοὶ, ὡς αἱ <persName n="urn:cite:hmt:pers.pers6">Μοῦσαι</persName> ἐπὶ
+                                <persName n="urn:cite:hmt:pers.pers455">Θαμύριδι</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="420" n="3210" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="21">ΚΑ</num></add>σιγῇ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.420</p>
+                        </div>
+                        <div type="comment">
+                            <p>διδάσκει μὴ θρασείας ποιεῖσθαι πρὸς τοὺς ὑπερέχοντας τὰς ἀποκρίσεις‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="422" n="3211" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="22">ΚΒ</num></add>ἔργα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.422</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔδει γὰρ αὐτὰς χωρίζεσθαι· ὡς ἀνδρὸς καὶ γυναικὸς τὰ συνήθη πρασσόντων‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="423" n="3212" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="23">ΚΓ</num></add>δῖα</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.423</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ διωτάτη· καλῶς δὲ τὰ ἐπὶ διὸς οὐκ ἐπιτείνονται‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="424" n="3213" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="24">ΚΔ</num></add>φιλομειδὴς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.424</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ γὰρ ἀφροδίσια λύπης ἀπήλλακται· τὸν δὲ δίφρον εἰ μὲν ὡς γραῖς τίθησιν, οὐκ ἄστοπον· εἰ δὲ ὡς <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName>·
+                                καὶ <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName> λύχνον φαίνει <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεῖ</persName>·
+                                καὶ οὐ θαυμαστὸν εἰ ἀδελφῇ ὑπηρετεῖται· ἐπάγει γὰρ τὸ <cit><q>κούρη Διός</q><ref>urn:cts:greekLit:tlg0012:tlg001:msB:3.426</ref></cit>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="425" n="3214" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="25">ΚΕ</num></add>ἀντί</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.425</p>
+                        </div>
+                        <div type="comment">
+                            <p>θέα γὰρ ἐρώτων συνεργός· <q>ἐκ τοῦ γὰρ εἰσορᾶν γίνεται τὸ τοὺς <choice><abbr>ἀνούς</abbr><expan>ἀνθρώπους</expan></choice> ἐρᾶν</q>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="427" n="3215" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="26">ΚϚ</num></add>πάλιν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.427</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑπογράφει τὸ σῶφρον τῆς <persName n="urn:cite:hmt:pers.pers94">Ἑλένης</persName>· τέχνῃ γὰρ ἀντιτάσσεται τῇ
+                                <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτῃ</persName>‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="428" n="3216" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="1">Α</num></add>πολέμου</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.0</p>
+                        </div>
+                        <div type="comment">
+                            <p>πλανώμενοι τινὲς ὑποστίζουσιν ἐν τῷ τολέμου, διὰ τὴν ὑπόκρισιν· <persName n="urn:cite:hmt:pers.pers76">Νικάνωρ</persName>
+                                δὲ τελείαν δίδωσι καὶ τὸ ἑξῆς ἀπόλυτον ἐᾶ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="431" n="3217" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="2">Β</num></add>βίῃ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.431</p>
+                        </div>
+                        <div type="comment">
+                            <p>βίῃ, τῇ ψυχῇ· χερσὶ, τῷ σώματι· ἔγχει, τοῖς ἀμυντηρίοις· ἠθικῶς δὲ αὐτοῦ τὸ ἀγαξονικὸν ἔσκωψεν· ἴδιον γὰρ τῶν ἐρώντων,
+                                 ἐπὶ ἀνδραγαθίαις αὐχεῖν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="434" n="3218" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="3">Γ</num></add>παύεσθαι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.434</p>
+                        </div>
+                        <div type="comment">
+                            <p>θελγομένη ὑπὸ <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτη</persName> εἰς τοῦτο ἔρχεται· τάχα δὲ καὶ ἀποδοθῆναι
+                                θέλουσα, λεληθότως παραινεῖ μὴ μάχεσθαι· μὴ μαχομένου δὲ αὐτοῦ ἀποδοθεῖν <choice><abbr>κτ`</abbr><expan>κατὰ</expan></choice>
+                                τὰ <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> δεδογμένα· δια τοῦτο ἐκδειματοῦσα, <cit><q>ἀρηΐφιλον</q><ref>urn:cts:greekLit:tlg0012:tlg001:msB:3.423</ref></cit>
+                                φησὶ <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName>· τὸ δὲ παύεσθαι ἐν εστῶτος, οὐ παύσασθαι· τελεία δὲ εἰς
+                                τὸ κέλομαι· καὶ τὰ ἑξῆς, ἀντὶ προστακτικῶν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="439" n="3219" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="4">Δ</num></add>Ἀθήνῃ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.439</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἷαι τῶν ἠσχημονηκότων αἱ ἀπολογίαι· διὰ τὴν <placeName n="urn:cite:hmt:place.place1">Ἀθηνᾶν</placeName> φησὶ
+                                νενικῆσθαι· ὥσπερ οὐκ ἐκ τῶν ἐναντίων διὰ τὴν <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτην</persName> αὐτὸς 
+                                σωθείς· νικήσειν δὲ ὑπισχνεῖται τὸν <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName>· οὐδὲ μετὰ τὴν ἧτταν
+                                τὴν ἀλαζονείαν ἀφείς‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="440" n="3220" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="5">Ε</num></add>αὖτις</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.440</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχὺ διασταλτέον εἰς τὸ ἐγὼ, καὶ τὸ νικήσω ἐκ δεκτέον· κοινὸν γὰρ ἄμφω τὸ ἐνίκησεν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="441" n="3221" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>φιλότητι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.441</p>
+                        </div>
+                        <div type="comment">
+                            <p>πῶς φασὶ μετὰ τοσαύτην αἰσχύνην ὀργᾶ· ἐμφανίζει οὖν τὴν πρόξενον ἀπάντων τῶν κακῶν, αὐτοῦ λαγνείαν· ἢ ἀνακτώμενος
+                                <persName n="urn:cite:hmt:pers.pers94">Ἑλένη</persName> προσποιεῖται αὐτῆς ἐρᾶν· ὐπονοῶν ὀργίζεσθαι αὐτὴν ἐφ' οἷς
+                                ἐκδοῦναι τῷ πολεμίῳ ἔσπευσεν· ἢ ὅτι ὧν στεροίμεθα ἂν, τούτων ἐρῶμεν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="441" n="3222" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>τραπείομεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.441</p>
+                        </div>
+                        <div type="comment">
+                            <p>τερφθῶμεν· κινδυνεύσας δὲ ὑπὲρ αὐτῆς ὡς νικήσας τῶν ἐπινικίων ἀπολαύειν ἀξιοῖ‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="442" n="3223" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="8">Η</num></add>ἀμφεκάλυψεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.442</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐθήρευσεν· ἡ μεταφορὰ ἐκ τῶν θηρευτικῶν δικτύων‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="443" n="3224" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="9">Θ</num></add>ἐρατεινῆς</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.443</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῖς ἐρῶσι καὶ αἱ τῶν ἐρωμένων πατρίδες, καλαὶ παρὰ πάσας εἶναι δοκοῦσιν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="445" n="3225" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="10">Ϊ</num></add>Κραναῇ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.445</p>
+                        </div>
+                        <div type="comment">
+                            <p>ταύτην πρὸ <rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικῆς</rs> εἶναι φασὶν· οἱ δὲ` τὰ κύθηρα· 
+                                <persName n="urn:cite:hmt:pers.pers194">Ἀφροδίτης</persName> γὰρ ἱερά‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="446" n="3226" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>σεο</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.446</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐγκλιτέον ἀπόλυτος γάρ ἐστιν· ἐπὶ δὲ ((<persName n="">Διὸς</persName>)) ὀρθοτονητέον· τὸ δὲ ἑξῆς οὕτως· οὐδέποτε 
+                                οὕτως ἔρως ἐκάλυψεν, ὡς νῦν ἐρῶσου‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="447" n="3227" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="12">ΙΒ</num></add>ἄκοιτις</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.447</p>
+                        </div>
+                        <div type="comment">
+                            <p>τηρεῖ τοῦτο καίπερ μὴ ὂν κατὰ τὸν τῆς συναφείσας νόμον, ὡς ἐπὶ <persName n="urn:cite:hmt:pers.pers116">Ἥρας</persName>
+                                καὶ ((<persName n="">Διός</persName>))‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="448" n="3228" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="13">ΙΓ</num></add>κατεύνασθεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.448</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπὶ μὲν τῶν ἀξιοχρέων γάμων, εὐνὴν καὶ φιλότητα ὀνομάζει· ἐπὶ δὲ
+                                    <persName n="urn:cite:hmt:pers.pers284">Πηνελόπης</persName>,
+                                καὶ πλέον τί· <q>λέκτροιο παλαιοῦ θεσμόν</q>· ἐπὶ δὲ τῶν παρανόμων,
+                                μόνην μίξιν καὶ κοίτην‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="449" n="3229" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="14">ΙΔ</num></add>θηρὶ</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.449</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἄργας ἀφῃρημένῳ· ἐπεὶ καὶ ἄνω, ἐπιτυχόντι εἰκάζει‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="456" n="3230" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="15">ΙΕ</num></add>Τρῶες</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.456</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰς δύο γὰρ ἡ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> ἀρχὴ διῄρητο, ἀπὸ
+                                ((<persName n="">Ἀσσαράκου</persName>)) καὶ ((<persName n="">Ἴλου</persName>))· ὧν οἱ υἱοὶ πολίζουσιν 
+                                <persName n="urn:cite:hmt:pers.pers180">Γανυμήδης</persName> δὲ ἥρπαστο‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="457" n="3231" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="16">ΙϚ</num></add>νίκη μὲν</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.457</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑπερέβη γὰρ τὸν μετρητὸν <persName n="urn:cite:hmt:pers.pers129"
+                                    >Ἀλέξανδρος</persName>, καὶ καλούμενος ἄπεστι· καὶ <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place15">Τρῶες</rs> μὲν
+                                ἕξουσϊ τὴν <persName n="urn:cite:hmt:pers.pers22"
+                                    >Ἀγαμέμνονος</persName> φωνὴν· <cit>
+                                    <q>τὸ εἰ δέ κ' <persName n="urn:cite:hmt:pers.pers129"
+                                            >Ἀλέξανδρον</persName> κτείνη</q>
+                                    <ref>urn:cts:greekLit:tlg0012:tlg001:msB:3.284</ref>
+                                    </cit> , ἐπίκουρον· οὐ γὰρ ἐκτάνθη· <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs> δὲ τὴν 
+                                <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>· τὸ <cit><q>ὁππότερος δέ κε νικήσει</q><ref>urn:cts:greekLit:tlg0012:tlg001:msB:3.71</ref></cit>
+                                κρείσσων τὲ γενηται· κρείσσων γὰρ ὤφθη <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>· καὶ γίνεται ἡ στάσις
+                                ῥητὸν καὶ διάνοια· διὸ ἀμφοτέρων εὔλογον αἰτίαν ἐχόντων, ἐπίσκεψις καὶ πρὸς ὀλίγον ἐπίσχεσις γίνεται τοῦ πολέμου‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="458" n="3232" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="17">ΙΖ</num></add>Ἀργείην</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.458</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν οὖσαν ἐξ <placeName n="urn:cite:hmt:place.place114">Ἄργους</placeName> καὶ <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείοις</rs> 
+                                προσήκουσαν‡</p>
+                        </div>
+                    </div>
+                    
+                    <div ana="461" n="3233" type="scholion">
+                        <div type="symbol">
+                            <p><add place="supralinear"><num value="18">ΙΗ</num></add>ἄλλοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>3.461</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶες</rs> σιωπῶσιν οὔτε μὴν τῶν βασιλέων καταγινώσκειν 
+                                ἔχοντ', οὔτε τοῦ δικαίου‡</p>
+                        </div>
+                    </div>
+                    
+             </body>
+         </text>
+
+
+         
+
+         <!-- Edition of interior scholia -->
+         <text n="msBint">
+            <body>
+
+               <div ana="447" n="2961" type="scholion">
+                  <div type="symbol"/>
+                  <div type="ref">
+                     <p>2.447</p>
+                  </div>
+                  <div type="comment">
+                     <p/>
+                  </div>
+               </div>
+               
+               <div ana="518" n="2522" type="scholion">
+                  <div type="symbol"/>
+                  <div type="ref">
+                     <p>2.518</p>
+                  </div>
+                  <div type="comment">
+                     <p/>
+                  </div>
+               </div>
+               
+          
+        </body>
+         </text>
+
+
+        
+
+         <!-- Edition of scholia in first later hand-->
+         <text n="msBlater1">
+            <body>
+               <div ana="ΙϚ" n="2013" type="scholion">
+                  <div type="symbol">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p/>
+                  </div>
+                  <div type="comment">
+                     <p/>
+                  </div>
+               </div>
+               
+               <div ana="13" n="2023" type="scholion">
+                  <div type="symbol">
+                     <p><add place="supralinear"/> ἔχοντες </p>
+                  </div>
+                  <div type="ref">
+                     <p>2.13</p>
+                  </div>
+                  <div type="comment">
+                     <p/>
+                  </div>
+               </div>
+               
+               <div ana="33" n="2999" type="scholion">
+                  <div type="symbol">
+                     <p><add place="supralinear"/> φρεσί</p>
+                  </div>
+                  <div type="ref">
+                     <p>2.33</p>
+                  </div>
+                  <div type="comment">
+                     <p/>
+                  </div>
+               </div>
+               
+              
+   
+            </body>
+         </text>
+         
+         <!-- Edition of scholia in second later hand-->
+         <text n="msBlater2">
+            <body>
+               <div ana="2" n="2014" type="scholion">
+                  <div type="symbol">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>2.2</p>
+                  </div>
+                  <div type="comment">
+                     <p/>
+                  </div>
+               </div>
+               
+               <div ana="F19R" n="2015" type="scholion">
+                  <div type="symbol">
+                     <p/>
+                  </div>
+                  <div type="ref">
+                     <p>2.F19R</p>
+                  </div>
+                  <div type="comment">
+                     <p/>
+                  </div>
+               </div>
+
+                  
+               
+            </body>
+            </text>
+       
+
+        </group>
+    </text>
+</TEI>
