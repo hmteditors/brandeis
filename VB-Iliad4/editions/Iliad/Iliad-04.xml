@@ -1,7 +1,11 @@
-<TEI.2><teiHeader><fileDesc><titleStmt><title>ιλιαδ 4?̔αλλεν̓</title></titleStmt><publicationStmt><p>πυβλιξατιον στατεμεντ γοες ηερε.</p></publicationStmt><sourceDesc><p>σουρξε δεσξριπτιον γοες ηερε.</p></sourceDesc></fileDesc><profileDesc><langUsage><language id='grc' >γρεεκ, ιν βετα-ξοδε</language><language id='eng' >ενγλιση</language></langUsage></profileDesc></teiHeader><text><body lang='grc' ><div n='4' ><head>ιλιαδος δ</head><l n='1' >οἳ δὲ θεοὶ πὰρ ζηνὶ καθήμενοι ἠγορόωντο</l>
-<l n='2' >χρυσέῳ ἐν δαπέδῳ, μετὰ δέ σφισι πότνια ἥβη</l>
-<l n='3' >νέκταρ ἐοινοχόει· τοὶ δὲ χρυσέοις δεπάεσσι</l>
-<l n='4' >δειδέχατ᾽ ἀλλήλους, τρώων πόλιν εἰσορόωντες·</l>
+<TEI.2><teiHeader><fileDesc><titleStmt><title>ιλιαδ 4?̔αλλεν̓</title></titleStmt><publicationStmt><p>πυβλιξατιον στατεμεντ γοες ηερε.</p></publicationStmt><sourceDesc><p>σουρξε δεσξριπτιον γοες ηερε.</p></sourceDesc></fileDesc><profileDesc><langUsage><language id='grc' >γρεεκ, ιν βετα-ξοδε</language><language id='eng' >ενγλιση</language></langUsage></profileDesc></teiHeader><text><body lang='grc' ><div n='4' ><head>ιλιαδος δ</head>
+    <l n='1' >οἳ δὲ θεοὶ πὰρ ζηνὶ καθήμενοι ἠγορόωντο</l>
+
+    <l n='2' >χρυσέῳ ἐν δαπέδῳ, μετὰ δέ σφισι πότνια ἥβη</l>
+
+    <l n='3' >νέκταρ ἐοινοχόει· τοὶ δὲ χρυσέοις δεπάεσσι</l>
+
+    <l n='4' >δειδέχατ᾽ ἀλλήλους, τρώων πόλιν εἰσορόωντες·</l>
 <l n='5' >αὐτίκ᾽ ἐπειρᾶτο κρονίδης ἐρεθιζέμεν ἥρην</l>
 <l n='6' >κερτομίοις ἐπέεσσι παραβλήδην ἀγορεύων·</l>
 <l n='7' >δοιαὶ μὲν μενελάῳ ἀρηγόνες εἰσὶ θεάων</l>
