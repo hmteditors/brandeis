@@ -1,14 +1,14 @@
 project.ext {
 
-  textInventory="/vagrant/VB-Iliad4/editions/inventory.xml"
-  textArchive="/vagrant/VB-Iliad4/editions"
+  textInventory="/vagrant/brandeis/VB-Iliad4/editions/inventory.xml"
+  textArchive="/vagrant/brandeis/VB-Iliad4/editions"
 
     // Lists of index files to use in verification:
-    folioToImage = "/vagrant/VB-Iliad4/indices/venA-folioToImage.csv"
+    folioToImage = "/vagrant/brandeis/VB-Iliad4/indices/venB-folioToImage.csv"
 
-    textToImage = "/vagrant/VB-Iliad4/indices/venA-textToImage-Iliad.csv"
-    textToFolio = "/vagrant/VB-Iliad4/indices/venA-textToFolio-Iliad.csv"
+    textToImage = "/vagrant/brandeis/VB-Iliad4/indices/venB-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/brandeis/VB-Iliad4/indices/venB-textToFolio-Iliad.csv"
 
-    scholiaInventories = "/vagrant/VB-Iliad4/collections/venA-exterior.csv,/vagrant/VB-Iliad4/collections/venA-intermarginal.csv,/vagrant/VB-Iliad4/collections/venA-interior.csv,/vagrant/VB-Iliad4/collections/venA-mainScholia.csv,/vagrant/VB-Iliad4/collections/venA-interlinear.csv"
+    scholiaInventories = "/vagrant/brandeis/VB-Iliad4/collections/venB-LaterScholia.csv,/vagrant/brandeis/VB-Iliad4/collections/venB-MainScholia.csv"
     
 }
